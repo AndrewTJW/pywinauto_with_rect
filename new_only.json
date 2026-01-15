@@ -1,0 +1,1250 @@
+[
+  {
+    "automation_id": "a7",
+    "class_name": "MenuItem",
+    "control_type": "MenuItem",
+    "name": "View",
+    "rect": [
+      161,
+      33,
+      210,
+      63
+    ]
+  },
+  {
+    "automation_id": "PART_FloatBase",
+    "class_name": "ItemsControl",
+    "control_type": "List",
+    "name": "",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ComboBox",
+    "control_type": "ComboBox",
+    "name": "",
+    "rect": [
+      940,
+      396,
+      1250,
+      419
+    ]
+  },
+  {
+    "automation_id": "bk",
+    "class_name": "WelcomeScreen",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      3,
+      460,
+      1396,
+      719
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "OK",
+    "rect": [
+      1139,
+      839,
+      1157,
+      856
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      674,
+      712,
+      1250,
+      736
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Report Content Mode",
+    "rect": [
+      681,
+      372,
+      833,
+      388
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ComboBox",
+    "control_type": "ComboBox",
+    "name": "",
+    "rect": [
+      940,
+      368,
+      1250,
+      391
+    ]
+  },
+  {
+    "automation_id": "CancelButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Cancel",
+    "rect": [
+      1185,
+      835,
+      1255,
+      860
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Preset VNA Before Test Execution Starts",
+    "rect": [
+      668,
+      537,
+      1252,
+      565
+    ]
+  },
+  {
+    "automation_id": "a6",
+    "class_name": "MenuItem",
+    "control_type": "MenuItem",
+    "name": "Tools",
+    "rect": [
+      109,
+      33,
+      161,
+      63
+    ]
+  },
+  {
+    "automation_id": "groupHeader",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "Test Plan",
+    "rect": [
+      674,
+      771,
+      1250,
+      795
+    ]
+  },
+  {
+    "automation_id": "label",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "Automotive Channel Test 2.5.0 Alpha 4",
+    "rect": [
+      5,
+      73,
+      1258,
+      90
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      623,
+      966,
+      646
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      674,
+      771,
+      1250,
+      795
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Set Specific Cal Set On Each Test Case",
+    "rect": [
+      668,
+      478,
+      1252,
+      506
+    ]
+  },
+  {
+    "automation_id": "GlobalSettingsTabControl",
+    "class_name": "TabControl",
+    "control_type": "Tab",
+    "name": "",
+    "rect": [
+      665,
+      213,
+      1255,
+      831
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ItemsControl",
+    "control_type": "List",
+    "name": "",
+    "rect": [
+      1917,
+      67,
+      1921,
+      995
+    ]
+  },
+  {
+    "automation_id": "OkButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "OK",
+    "rect": [
+      1118,
+      835,
+      1178,
+      860
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBox",
+    "control_type": "List",
+    "name": "",
+    "rect": [
+      667,
+      250,
+      1253,
+      826
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Minimize VNA Screen During Test Execution",
+    "rect": [
+      681,
+      571,
+      935,
+      587
+    ]
+  },
+  {
+    "automation_id": "browseButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "...",
+    "rect": [
+      1230,
+      284,
+      1250,
+      307
+    ]
+  },
+  {
+    "automation_id": "This",
+    "class_name": "FilePathControl",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      1230,
+      284,
+      1250,
+      307
+    ]
+  },
+  {
+    "automation_id": "ah",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Toggle Filter Mode",
+    "rect": [
+      1360,
+      460,
+      1379,
+      497
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Show Skip Calibration Option For All",
+    "rect": [
+      681,
+      456,
+      888,
+      472
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ItemsControl",
+    "control_type": "List",
+    "name": "",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      312,
+      966,
+      335
+    ]
+  },
+  {
+    "automation_id": "bz",
+    "class_name": "RunCompletedOverlay",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      3,
+      754,
+      1917,
+      995
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "HwndWrapper[Editor;;efabeef4-60d1-49a5-9efb-9f3bb91a3657]",
+    "control_type": "Pane",
+    "name": "",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Keysight.OpenTap.Wpf.GroupUi",
+    "rect": [
+      668,
+      251,
+      1252,
+      282
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "...",
+    "rect": [
+      1235,
+      288,
+      1245,
+      304
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Save Touchstone File",
+    "rect": [
+      681,
+      599,
+      803,
+      615
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Keysight.OpenTap.Wpf.GroupUi",
+    "rect": [
+      668,
+      767,
+      1252,
+      798
+    ]
+  },
+  {
+    "automation_id": "a",
+    "class_name": "TextBox",
+    "control_type": "Edit",
+    "name": "",
+    "rect": [
+      1866,
+      39,
+      1910,
+      56
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      595,
+      966,
+      618
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ItemsControl",
+    "control_type": "List",
+    "name": "",
+    "rect": [
+      -1,
+      67,
+      3,
+      995
+    ]
+  },
+  {
+    "automation_id": "groupHeader",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "Demo",
+    "rect": [
+      674,
+      681,
+      1250,
+      705
+    ]
+  },
+  {
+    "automation_id": "groupHeader",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "General",
+    "rect": [
+      674,
+      255,
+      1250,
+      279
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBox",
+    "control_type": "Edit",
+    "name": "",
+    "rect": [
+      940,
+      284,
+      1230,
+      307
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Execution",
+    "rect": [
+      698,
+      514,
+      783,
+      530
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ItemsControl",
+    "control_type": "List",
+    "name": "",
+    "rect": [
+      3,
+      63,
+      1917,
+      67
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Save Touchstone File",
+    "rect": [
+      668,
+      593,
+      1252,
+      621
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Preserve Settings",
+    "rect": [
+      698,
+      716,
+      799,
+      732
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      741,
+      966,
+      764
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Delete Old Report Files",
+    "rect": [
+      681,
+      316,
+      812,
+      332
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Keysight.OpenTap.Wpf.GroupUi",
+    "rect": [
+      668,
+      708,
+      1252,
+      739
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      452,
+      966,
+      475
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ItemsControl",
+    "control_type": "List",
+    "name": "",
+    "rect": [
+      3,
+      995,
+      1917,
+      999
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBox",
+    "control_type": "Edit",
+    "name": "",
+    "rect": [
+      940,
+      340,
+      1250,
+      363
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Minimize VNA Screen During Test Execution",
+    "rect": [
+      668,
+      565,
+      1252,
+      593
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Test Report Content Mode",
+    "rect": [
+      668,
+      366,
+      1252,
+      394
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Save State File",
+    "rect": [
+      681,
+      627,
+      766,
+      643
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Cancel",
+    "rect": [
+      1199,
+      839,
+      1242,
+      856
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Image Background Color",
+    "rect": [
+      681,
+      400,
+      824,
+      416
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      539,
+      966,
+      562
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Menu",
+    "control_type": "Menu",
+    "name": "",
+    "rect": [
+      -1,
+      33,
+      1921,
+      63
+    ]
+  },
+  {
+    "automation_id": "b",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "",
+    "rect": [
+      1912,
+      39,
+      1919,
+      56
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Show Connection Change Reminder",
+    "rect": [
+      668,
+      649,
+      1252,
+      677
+    ]
+  },
+  {
+    "automation_id": "ag",
+    "class_name": "MenuItem",
+    "control_type": "MenuItem",
+    "name": "|||",
+    "rect": [
+      1331,
+      464,
+      1360,
+      494
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Plan",
+    "rect": [
+      698,
+      775,
+      752,
+      791
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "VersionItem",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      1866,
+      33,
+      1921,
+      63
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      424,
+      966,
+      447
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Image Background Color",
+    "rect": [
+      668,
+      394,
+      1252,
+      422
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Number Of Report Files To Keep",
+    "rect": [
+      668,
+      338,
+      1252,
+      366
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Automotive Channel Test 2.5.0 Alpha 4",
+    "rect": [
+      9,
+      73,
+      250,
+      90
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ItemsControlItem",
+    "control_type": "DataItem",
+    "name": "OpenTap.ResultSettings",
+    "rect": [
+      304,
+      999,
+      446,
+      1033
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Show Skip Calibration Option For All",
+    "rect": [
+      668,
+      450,
+      1252,
+      478
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Save State File",
+    "rect": [
+      668,
+      621,
+      1252,
+      649
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Draw Limit Line In Red",
+    "rect": [
+      668,
+      422,
+      1252,
+      450
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Keysight.OpenTap.Wpf.GroupUi",
+    "rect": [
+      668,
+      506,
+      1252,
+      537
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      651,
+      966,
+      674
+    ]
+  },
+  {
+    "automation_id": "WarningCount",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "1",
+    "rect": [
+      237,
+      762,
+      262,
+      780
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Number Of Report Files To Keep",
+    "rect": [
+      681,
+      344,
+      866,
+      360
+    ]
+  },
+  {
+    "automation_id": "DebugCount",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "153",
+    "rect": [
+      512,
+      762,
+      537,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      674,
+      681,
+      1250,
+      705
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Demo",
+    "rect": [
+      698,
+      685,
+      732,
+      701
+    ]
+  },
+  {
+    "automation_id": "ai",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1379,
+      460,
+      1396,
+      497
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Preset VNA Before Test Execution Starts",
+    "rect": [
+      681,
+      543,
+      914,
+      559
+    ]
+  },
+  {
+    "automation_id": "az",
+    "class_name": "Menu",
+    "control_type": "Menu",
+    "name": "",
+    "rect": [
+      -1,
+      33,
+      1866,
+      63
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ItemsControlItem",
+    "control_type": "DataItem",
+    "name": "OpenTap.DutSettings",
+    "rect": [
+      4,
+      999,
+      132,
+      1033
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      674,
+      510,
+      1250,
+      534
+    ]
+  },
+  {
+    "automation_id": "MessageCount",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "12",
+    "rect": [
+      392,
+      762,
+      417,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ItemsControl",
+    "control_type": "List",
+    "name": "",
+    "rect": [
+      4,
+      999,
+      1916,
+      1033
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Setup",
+    "rect": [
+      681,
+      745,
+      742,
+      761
+    ]
+  },
+  {
+    "automation_id": "bj",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Click '+' to add a test step.",
+    "rect": [
+      5,
+      503,
+      255,
+      522
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      674,
+      255,
+      1250,
+      279
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Delete Old Report Files",
+    "rect": [
+      668,
+      310,
+      1252,
+      338
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ItemsControlItem",
+    "control_type": "DataItem",
+    "name": "OpenTap.InstrumentSettings",
+    "rect": [
+      132,
+      999,
+      304,
+      1033
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      480,
+      966,
+      503
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Keysight.OpenTap.Wpf.GroupUi",
+    "rect": [
+      668,
+      677,
+      1252,
+      708
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "NormalSettingsControl",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      665,
+      248,
+      1255,
+      831
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Draw Limit Line In Red",
+    "rect": [
+      681,
+      428,
+      809,
+      444
+    ]
+  },
+  {
+    "automation_id": "a0",
+    "class_name": "MenuItem",
+    "control_type": "MenuItem",
+    "name": "File",
+    "rect": [
+      -1,
+      33,
+      39,
+      63
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      943,
+      567,
+      966,
+      590
+    ]
+  },
+  {
+    "automation_id": "groupHeader",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "Test Execution",
+    "rect": [
+      674,
+      510,
+      1250,
+      534
+    ]
+  },
+  {
+    "automation_id": "b0",
+    "class_name": "TapDock",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      -1,
+      63,
+      1921,
+      999
+    ]
+  },
+  {
+    "automation_id": "b1",
+    "class_name": "InstrumentStatus",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      -1,
+      999,
+      1921,
+      1033
+    ]
+  },
+  {
+    "automation_id": "WelcomeScreenCloseButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1359,
+      460,
+      1379,
+      478
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Show Connection Change Reminder",
+    "rect": [
+      681,
+      655,
+      888,
+      671
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Set Specific Cal Set On Each Test Case",
+    "rect": [
+      681,
+      484,
+      904,
+      500
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "User Data Directory",
+    "rect": [
+      668,
+      282,
+      1252,
+      310
+    ]
+  },
+  {
+    "automation_id": "groupHeader",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "Preserve Settings",
+    "rect": [
+      674,
+      712,
+      1250,
+      736
+    ]
+  },
+  {
+    "automation_id": "nameBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "User Data Directory",
+    "rect": [
+      681,
+      288,
+      793,
+      304
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBoxItem",
+    "control_type": "ListItem",
+    "name": "Test Setup",
+    "rect": [
+      668,
+      739,
+      1252,
+      767
+    ]
+  }
+]

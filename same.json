@@ -1,0 +1,2606 @@
+[
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Step Settings",
+    "rect": [
+      1407,
+      73,
+      1520,
+      90
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Analyze and optimize test plan timing with the Timing Analyzer.",
+    "rect": [
+      349,
+      680,
+      669,
+      714
+    ]
+  },
+  {
+    "automation_id": "PART_LeftHeaderGripper",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      355,
+      460,
+      363,
+      502
+    ]
+  },
+  {
+    "automation_id": "PART_HidePin",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1354,
+      395,
+      1396,
+      425
+    ]
+  },
+  {
+    "automation_id": "ResourceSettingsOpenButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Instruments",
+    "rect": [
+      132,
+      999,
+      226,
+      1033
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "• ",
+    "rect": [
+      341,
+      580,
+      349,
+      597
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Hyperlink",
+    "control_type": "Hyperlink",
+    "name": "More about OpenTAP",
+    "rect": [
+      723,
+      712,
+      856,
+      729
+    ]
+  },
+  {
+    "automation_id": "LogPanelAutoScrollButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Auto Scroll",
+    "rect": [
+      1814,
+      759,
+      1911,
+      784
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Measurement",
+    "rect": [
+      856,
+      218,
+      973,
+      235
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "STEP 5",
+    "rect": [
+      1107,
+      190,
+      1152,
+      207
+    ]
+  },
+  {
+    "automation_id": "b",
+    "class_name": "ScrollViewer",
+    "control_type": "Pane",
+    "name": "",
+    "rect": [
+      3,
+      460,
+      1396,
+      719
+    ]
+  },
+  {
+    "automation_id": "RunCompletedOverlayTextBlock",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": " Warnings",
+    "rect": [
+      171,
+      762,
+      233,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "• ",
+    "rect": [
+      341,
+      680,
+      349,
+      697
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      800,
+      219,
+      815,
+      234
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      1889,
+      732,
+      1902,
+      745
+    ]
+  },
+  {
+    "automation_id": "WslWindow_Application_Icon",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      11,
+      6,
+      97,
+      26
+    ]
+  },
+  {
+    "automation_id": "LogPanelMessagesButton",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      278,
+      762,
+      417,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      3,
+      390,
+      1396,
+      395
+    ]
+  },
+  {
+    "automation_id": "MenuDropDownButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1306,
+      395,
+      1354,
+      425
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Getting Started",
+    "rect": [
+      691,
+      558,
+      1031,
+      575
+    ]
+  },
+  {
+    "automation_id": "PART_LineUpButton",
+    "class_name": "RepeatButton",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1900,
+      789,
+      1917,
+      806
+    ]
+  },
+  {
+    "automation_id": "MenuDropDownButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1827,
+      724,
+      1875,
+      754
+    ]
+  },
+  {
+    "automation_id": "ResourceSettingsName",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Results",
+    "rect": [
+      312,
+      1007,
+      360,
+      1024
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "System.Windows.Documents.Underline",
+    "rect": [
+      839,
+      294,
+      1002,
+      321
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "_Settings",
+    "rect": [
+      48,
+      40,
+      100,
+      57
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "STEP 4",
+    "rect": [
+      887,
+      185,
+      942,
+      212
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Log",
+    "rect": [
+      9,
+      730,
+      32,
+      747
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ListBox",
+    "control_type": "List",
+    "name": "",
+    "rect": [
+      1401,
+      97,
+      1917,
+      716
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Automotive Channel Test Settings",
+    "rect": [
+      677,
+      221,
+      889,
+      238
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      1368,
+      403,
+      1381,
+      416
+    ]
+  },
+  {
+    "automation_id": "VerticalScrollBar",
+    "class_name": "ScrollBar",
+    "control_type": "ScrollBar",
+    "name": "",
+    "rect": [
+      1379,
+      460,
+      1396,
+      719
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "TD Setup Connection",
+    "rect": [
+      844,
+      272,
+      975,
+      289
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "DataGridColumnHeader",
+    "control_type": "HeaderItem",
+    "name": "Type",
+    "rect": [
+      355,
+      460,
+      391,
+      502
+    ]
+  },
+  {
+    "automation_id": "PART_LineRightButton",
+    "class_name": "RepeatButton",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1883,
+      978,
+      1900,
+      995
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "STEP 3",
+    "rect": [
+      672,
+      185,
+      727,
+      212
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TabControl",
+    "control_type": "Tab",
+    "name": "",
+    "rect": [
+      1401,
+      67,
+      1917,
+      719
+    ]
+  },
+  {
+    "automation_id": "PageDown",
+    "class_name": "RepeatButton",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1379,
+      622,
+      1396,
+      702
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      1383,
+      477,
+      1392,
+      622
+    ]
+  },
+  {
+    "automation_id": "examplesLink",
+    "class_name": "Hyperlink",
+    "control_type": "Hyperlink",
+    "name": " ",
+    "rect": [
+      724,
+      734,
+      814,
+      751
+    ]
+  },
+  {
+    "automation_id": "PART_LeftHeaderGripper",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      66,
+      460,
+      74,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TabItem",
+    "control_type": "TabItem",
+    "name": "OpenTap.ResultSettings",
+    "rect": [
+      1029,
+      213,
+      1100,
+      247
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "System.Windows.Documents.Underline",
+    "rect": [
+      409,
+      240,
+      572,
+      267
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "_Help",
+    "rect": [
+      219,
+      40,
+      248,
+      57
+    ]
+  },
+  {
+    "automation_id": "PART_LineLeftButton",
+    "class_name": "RepeatButton",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      3,
+      978,
+      20,
+      995
+    ]
+  },
+  {
+    "automation_id": "ResourceSettingsName",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "DUTs",
+    "rect": [
+      12,
+      1007,
+      46,
+      1024
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "System Calibration",
+    "rect": [
+      641,
+      218,
+      758,
+      235
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      584,
+      219,
+      599,
+      234
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      1014,
+      219,
+      1029,
+      234
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Instrument Setup",
+    "rect": [
+      182,
+      212,
+      357,
+      240
+    ]
+  },
+  {
+    "automation_id": "PageUp",
+    "class_name": "RepeatButton",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Filter",
+    "rect": [
+      1758,
+      763,
+      1789,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Add New",
+    "rect": [
+      373,
+      1007,
+      429,
+      1024
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "System.Windows.Documents.Underline",
+    "rect": [
+      409,
+      267,
+      572,
+      294
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Search",
+    "rect": [
+      1671,
+      763,
+      1714,
+      780
+    ]
+  },
+  {
+    "automation_id": "TestPlanToolBar",
+    "class_name": "ToolBar",
+    "control_type": "ToolBar",
+    "name": "",
+    "rect": [
+      3,
+      425,
+      1396,
+      460
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "• View test plan results",
+    "rect": [
+      701,
+      663,
+      1031,
+      680
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      1891,
+      9,
+      1904,
+      22
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      1889,
+      75,
+      1902,
+      88
+    ]
+  },
+  {
+    "automation_id": "EnableWelcomeScreenAtStartupCheckbox",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "Show welcome screen at startup. (Use Editor settings to show or hide later)",
+    "rect": [
+      341,
+      744,
+      641,
+      777
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "STEP 2",
+    "rect": [
+      462,
+      190,
+      507,
+      207
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Test Measurement",
+    "rect": [
+      827,
+      212,
+      1002,
+      240
+    ]
+  },
+  {
+    "automation_id": "ResourceSettingsOpenButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Results",
+    "rect": [
+      304,
+      999,
+      368,
+      1033
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      1232,
+      177,
+      1239,
+      190
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "PathWave Test Automation empowers you to quickly and easily automate tests, view and analyze results, and optimize test performance, all built on open-source OpenTAP.",
+    "rect": [
+      341,
+      504,
+      1041,
+      538
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Open Recent Test Plan Files",
+    "rect": [
+      691,
+      793,
+      1031,
+      810
+    ]
+  },
+  {
+    "automation_id": "DropDownButton2",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1733,
+      756,
+      1813,
+      787
+    ]
+  },
+  {
+    "automation_id": "PART_HelpButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1258,
+      67,
+      1306,
+      97
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Developer Guide",
+    "rect": [
+      724,
+      756,
+      825,
+      773
+    ]
+  },
+  {
+    "automation_id": "InitTestPlanButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      175,
+      427,
+      221,
+      458
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Verdict",
+    "rect": [
+      70,
+      472,
+      111,
+      488
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "STEP 4",
+    "rect": [
+      892,
+      190,
+      937,
+      207
+    ]
+  },
+  {
+    "automation_id": "MinimizeButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1789,
+      -1,
+      1831,
+      33
+    ]
+  },
+  {
+    "automation_id": "PART_RightHeaderGripper",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      58,
+      460,
+      66,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Add New",
+    "rect": [
+      231,
+      1007,
+      287,
+      1024
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": " Information",
+    "rect": [
+      312,
+      762,
+      388,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Welcome to PathWave Test Automation",
+    "rect": [
+      341,
+      470,
+      1041,
+      494
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "_View",
+    "rect": [
+      170,
+      40,
+      201,
+      57
+    ]
+  },
+  {
+    "automation_id": "LogPanelToolBar",
+    "class_name": "ToolBar",
+    "control_type": "ToolBar",
+    "name": "",
+    "rect": [
+      3,
+      754,
+      1917,
+      789
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "MenuItem",
+    "control_type": "MenuItem",
+    "name": "Help",
+    "rect": [
+      210,
+      33,
+      257,
+      63
+    ]
+  },
+  {
+    "automation_id": "RestoreButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1833,
+      -1,
+      1875,
+      33
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "STEP 3",
+    "rect": [
+      677,
+      190,
+      722,
+      207
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "• Save test plan results to a database",
+    "rect": [
+      701,
+      641,
+      1031,
+      658
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "• ",
+    "rect": [
+      341,
+      658,
+      349,
+      675
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TabItem",
+    "control_type": "TabItem",
+    "name": "OpenTap.EngineSettings",
+    "rect": [
+      962,
+      213,
+      1029,
+      247
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      1846,
+      8,
+      1862,
+      24
+    ]
+  },
+  {
+    "automation_id": "DropDownButton2",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1667,
+      756,
+      1730,
+      787
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "SDK Examples",
+    "rect": [
+      724,
+      734,
+      814,
+      751
+    ]
+  },
+  {
+    "automation_id": "vertbar",
+    "class_name": "ScrollBar",
+    "control_type": "ScrollBar",
+    "name": "",
+    "rect": [
+      1900,
+      789,
+      1917,
+      978
+    ]
+  },
+  {
+    "automation_id": "MenuDropDownButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1306,
+      67,
+      1354,
+      97
+    ]
+  },
+  {
+    "automation_id": "ErrorCount",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "0",
+    "rect": [
+      96,
+      762,
+      121,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Use the SDK to create custom plugins for devices under test (DUTs), instruments, and test steps",
+    "rect": [
+      349,
+      580,
+      669,
+      614
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Create test plans using included, third-party, or your own custom test steps",
+    "rect": [
+      349,
+      619,
+      669,
+      653
+    ]
+  },
+  {
+    "automation_id": "Single Step",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      263,
+      427,
+      305,
+      458
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      3,
+      719,
+      1917,
+      724
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Type",
+    "rect": [
+      359,
+      472,
+      387,
+      488
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "DataGridColumnHeader",
+    "control_type": "HeaderItem",
+    "name": "Name",
+    "rect": [
+      23,
+      460,
+      66,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      1368,
+      75,
+      1381,
+      88
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Results",
+    "rect": [
+      1041,
+      221,
+      1088,
+      238
+    ]
+  },
+  {
+    "automation_id": "RunTestPlanButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      221,
+      427,
+      263,
+      458
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      701,
+      755,
+      719,
+      773
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "System.Windows.Documents.Underline",
+    "rect": [
+      839,
+      240,
+      1002,
+      267
+    ]
+  },
+  {
+    "automation_id": "addbtn",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Add New",
+    "rect": [
+      226,
+      999,
+      292,
+      1033
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TabControl",
+    "control_type": "Tab",
+    "name": "",
+    "rect": [
+      3,
+      724,
+      1917,
+      995
+    ]
+  },
+  {
+    "automation_id": "ResourceSettingsOpenButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "DUTs",
+    "rect": [
+      4,
+      999,
+      54,
+      1033
+    ]
+  },
+  {
+    "automation_id": "LogPanelWarningsButton",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      137,
+      762,
+      262,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "STEP 5",
+    "rect": [
+      1102,
+      185,
+      1157,
+      212
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ToolBar",
+    "control_type": "ToolBar",
+    "name": "",
+    "rect": [
+      1584,
+      754,
+      1917,
+      789
+    ]
+  },
+  {
+    "automation_id": "RemoveStepButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      47,
+      427,
+      89,
+      458
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "New Test Plan",
+    "rect": [
+      701,
+      815,
+      1021,
+      832
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TabControl",
+    "control_type": "Tab",
+    "name": "",
+    "rect": [
+      3,
+      67,
+      1396,
+      390
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Add New",
+    "rect": [
+      59,
+      1007,
+      115,
+      1024
+    ]
+  },
+  {
+    "automation_id": "addbtn",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Add New",
+    "rect": [
+      368,
+      999,
+      434,
+      1033
+    ]
+  },
+  {
+    "automation_id": "AddStepButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      5,
+      427,
+      47,
+      458
+    ]
+  },
+  {
+    "automation_id": "StopTestPlanButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      305,
+      427,
+      347,
+      458
+    ]
+  },
+  {
+    "automation_id": "ResourceSettingsName",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Instruments",
+    "rect": [
+      140,
+      1007,
+      218,
+      1024
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "• ",
+    "rect": [
+      341,
+      619,
+      349,
+      636
+    ]
+  },
+  {
+    "automation_id": "DropDownButton2",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1592,
+      756,
+      1663,
+      787
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Report",
+    "rect": [
+      1094,
+      218,
+      1166,
+      235
+    ]
+  },
+  {
+    "automation_id": "examplesLink",
+    "class_name": "Hyperlink",
+    "control_type": "Hyperlink",
+    "name": " ",
+    "rect": [
+      724,
+      756,
+      825,
+      773
+    ]
+  },
+  {
+    "automation_id": "CloseButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1877,
+      -1,
+      1919,
+      33
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "General",
+    "rect": [
+      698,
+      259,
+      742,
+      275
+    ]
+  },
+  {
+    "automation_id": "LogPanelDebugButton",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      433,
+      762,
+      537,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": " Debug",
+    "rect": [
+      465,
+      762,
+      508,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "_File",
+    "rect": [
+      8,
+      40,
+      30,
+      57
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TabControl",
+    "control_type": "Tab",
+    "name": "",
+    "rect": [
+      3,
+      395,
+      1396,
+      719
+    ]
+  },
+  {
+    "automation_id": "label",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "Test Step Settings",
+    "rect": [
+      1403,
+      73,
+      1779,
+      90
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ToolBar",
+    "control_type": "ToolBar",
+    "name": "",
+    "rect": [
+      665,
+      205,
+      1255,
+      213
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Flow",
+    "rect": [
+      209,
+      472,
+      237,
+      488
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Configuration",
+    "rect": [
+      427,
+      218,
+      541,
+      235
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "       ",
+    "rect": [
+      9,
+      401,
+      129,
+      418
+    ]
+  },
+  {
+    "automation_id": "horzbar",
+    "class_name": "ScrollBar",
+    "control_type": "ScrollBar",
+    "name": "",
+    "rect": [
+      3,
+      978,
+      1900,
+      995
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Sources",
+    "rect": [
+      1596,
+      763,
+      1647,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ScrollViewer",
+    "control_type": "Pane",
+    "name": "",
+    "rect": [
+      3,
+      97,
+      1396,
+      390
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      701,
+      713,
+      715,
+      727
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      1396,
+      67,
+      1401,
+      719
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": " ",
+    "rect": [
+      724,
+      756,
+      825,
+      773
+    ]
+  },
+  {
+    "automation_id": "PART_LeftHeaderGripper",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      115,
+      460,
+      123,
+      502
+    ]
+  },
+  {
+    "automation_id": "LogPanel",
+    "class_name": "LogPanel",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      3,
+      754,
+      1917,
+      995
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Test Report",
+    "rect": [
+      1042,
+      212,
+      1217,
+      240
+    ]
+  },
+  {
+    "automation_id": "TestPlanList",
+    "class_name": "DataGrid",
+    "control_type": "DataGrid",
+    "name": "",
+    "rect": [
+      3,
+      460,
+      1396,
+      719
+    ]
+  },
+  {
+    "automation_id": "PART_HelpButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1779,
+      67,
+      1827,
+      97
+    ]
+  },
+  {
+    "automation_id": "LogPanelErrorsButton",
+    "class_name": "CheckBox",
+    "control_type": "CheckBox",
+    "name": "",
+    "rect": [
+      17,
+      762,
+      121,
+      780
+    ]
+  },
+  {
+    "automation_id": "label",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "       ",
+    "rect": [
+      5,
+      401,
+      1258,
+      418
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TabItem",
+    "control_type": "TabItem",
+    "name": "Keysight.OpenTap.Plugins.AECore.CommonSetup",
+    "rect": [
+      665,
+      213,
+      901,
+      247
+    ]
+  },
+  {
+    "automation_id": "PART_LineDownButton",
+    "class_name": "RepeatButton",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1900,
+      961,
+      1917,
+      978
+    ]
+  },
+  {
+    "automation_id": "PART_LeftHeaderGripper",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      205,
+      460,
+      213,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Run test plans and view results",
+    "rect": [
+      349,
+      658,
+      669,
+      675
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Plan",
+    "rect": [
+      9,
+      401,
+      67,
+      418
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Editor",
+    "rect": [
+      913,
+      221,
+      950,
+      238
+    ]
+  },
+  {
+    "automation_id": "PART_RightHeaderGripper",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      107,
+      460,
+      115,
+      502
+    ]
+  },
+  {
+    "automation_id": "PART_HidePin",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1875,
+      67,
+      1917,
+      97
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Test Plan:",
+    "rect": [
+      104,
+      434,
+      165,
+      451
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "• Create and run test plans",
+    "rect": [
+      701,
+      619,
+      1031,
+      636
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Show welcome screen at startup. (Use Editor settings to show or hide later)",
+    "rect": [
+      362,
+      743,
+      641,
+      777
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Hyperlink",
+    "control_type": "Hyperlink",
+    "name": "here",
+    "rect": [
+      725,
+      580,
+      752,
+      597
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "DataGridColumnHeader",
+    "control_type": "HeaderItem",
+    "name": "Verdict",
+    "rect": [
+      66,
+      460,
+      115,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Menu",
+    "control_type": "Menu",
+    "name": "",
+    "rect": [
+      1331,
+      460,
+      1360,
+      497
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "AT Setup Connection",
+    "rect": [
+      844,
+      299,
+      974,
+      316
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "STEP 2",
+    "rect": [
+      457,
+      185,
+      512,
+      212
+    ]
+  },
+  {
+    "automation_id": "HelpButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1215,
+      169,
+      1257,
+      199
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "_Tools",
+    "rect": [
+      118,
+      40,
+      152,
+      57
+    ]
+  },
+  {
+    "automation_id": "PART_HidePin",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1354,
+      67,
+      1396,
+      97
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Test Configuration",
+    "rect": [
+      397,
+      212,
+      572,
+      240
+    ]
+  },
+  {
+    "automation_id": "SettingsWindow",
+    "class_name": "Window",
+    "control_type": "Window",
+    "name": " Settings",
+    "rect": [
+      660,
+      166,
+      1260,
+      866
+    ]
+  },
+  {
+    "automation_id": "PART_RightHeaderGripper",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      197,
+      460,
+      205,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": " ",
+    "rect": [
+      724,
+      734,
+      814,
+      751
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Instrument Setup",
+    "rect": [
+      216,
+      218,
+      323,
+      235
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Hyperlink",
+    "control_type": "Hyperlink",
+    "name": "New Test Plan",
+    "rect": [
+      701,
+      815,
+      790,
+      832
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "DataGridColumnHeader",
+    "control_type": "HeaderItem",
+    "name": "Flow",
+    "rect": [
+      205,
+      460,
+      355,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "System Calibration",
+    "rect": [
+      612,
+      212,
+      787,
+      240
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "ECal Setup Connection",
+    "rect": [
+      629,
+      245,
+      771,
+      262
+    ]
+  },
+  {
+    "automation_id": "TestPlanName",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Untitled",
+    "rect": [
+      74,
+      401,
+      122,
+      418
+    ]
+  },
+  {
+    "automation_id": "PART_LineDownButton",
+    "class_name": "RepeatButton",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1379,
+      702,
+      1396,
+      719
+    ]
+  },
+  {
+    "automation_id": "label",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "Log",
+    "rect": [
+      5,
+      730,
+      1779,
+      747
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "DataGridColumnHeader",
+    "control_type": "HeaderItem",
+    "name": "",
+    "rect": [
+      3,
+      460,
+      23,
+      502
+    ]
+  },
+  {
+    "automation_id": "RepeatTestPlanToggle",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      351,
+      427,
+      386,
+      461
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Key Features",
+    "rect": [
+      341,
+      558,
+      681,
+      575
+    ]
+  },
+  {
+    "automation_id": "addbtn",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Add New",
+    "rect": [
+      54,
+      999,
+      120,
+      1033
+    ]
+  },
+  {
+    "automation_id": "PART_HelpButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1779,
+      724,
+      1827,
+      754
+    ]
+  },
+  {
+    "automation_id": "PART_HelpButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1258,
+      395,
+      1306,
+      425
+    ]
+  },
+  {
+    "automation_id": "FilterToggleButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Filter",
+    "rect": [
+      1737,
+      759,
+      1797,
+      784
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Auto Scroll",
+    "rect": [
+      1835,
+      763,
+      1903,
+      780
+    ]
+  },
+  {
+    "automation_id": "PART_HidePin",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      1875,
+      724,
+      1917,
+      754
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "FixedPage",
+    "control_type": "Pane",
+    "name": "",
+    "rect": [
+      184,
+      436,
+      198,
+      447
+    ]
+  },
+  {
+    "automation_id": "TestPlanGrid",
+    "class_name": "TestPlanGrid",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      3,
+      460,
+      1396,
+      719
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Duration",
+    "rect": [
+      119,
+      472,
+      168,
+      488
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Compatible ECal Module",
+    "rect": [
+      414,
+      272,
+      567,
+      289
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "automation_id": "PART_RightHeaderGripper",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      347,
+      460,
+      355,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "MenuItem",
+    "control_type": "MenuItem",
+    "name": "Settings",
+    "rect": [
+      39,
+      33,
+      109,
+      63
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      701,
+      733,
+      719,
+      751
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      370,
+      219,
+      385,
+      234
+    ]
+  },
+  {
+    "automation_id": "PART_ColumnHeadersPresenter",
+    "class_name": "DataGridColumnHeadersPresenter",
+    "control_type": "Header",
+    "name": "",
+    "rect": [
+      3,
+      460,
+      1396,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Documentation",
+    "rect": [
+      691,
+      690,
+      1031,
+      707
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Compatible Instrument",
+    "rect": [
+      414,
+      245,
+      557,
+      262
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TabItem",
+    "control_type": "TabItem",
+    "name": "Keysight.OpenTap.Wpf.EditorSettings",
+    "rect": [
+      901,
+      213,
+      962,
+      247
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Click here for a step-by-step procedure showing how to:",
+    "rect": [
+      691,
+      580,
+      1031,
+      614
+    ]
+  },
+  {
+    "automation_id": "MenuDropDownButton",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1827,
+      67,
+      1875,
+      97
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "ScrollViewer",
+    "control_type": "Pane",
+    "name": "",
+    "rect": [
+      -1,
+      999,
+      1921,
+      1033
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Name",
+    "rect": [
+      27,
+      472,
+      62,
+      488
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "System.Windows.Documents.Underline",
+    "rect": [
+      839,
+      267,
+      1002,
+      294
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "System.Windows.Documents.Underline",
+    "rect": [
+      624,
+      240,
+      787,
+      267
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "Engine",
+    "rect": [
+      974,
+      221,
+      1017,
+      238
+    ]
+  },
+  {
+    "automation_id": "btn",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "Keysight.Ccl.Wsl.UI.Controls.IconButtonContent",
+    "rect": [
+      406,
+      427,
+      448,
+      458
+    ]
+  },
+  {
+    "automation_id": "PART_LineUpButton",
+    "class_name": "RepeatButton",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      1379,
+      460,
+      1396,
+      477
+    ]
+  },
+  {
+    "automation_id": "DropDownButton2",
+    "class_name": "Button",
+    "control_type": "Button",
+    "name": "",
+    "rect": [
+      347,
+      427,
+      402,
+      458
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "UserTestFlowPanel",
+    "control_type": "Custom",
+    "name": "",
+    "rect": [
+      3,
+      97,
+      1396,
+      390
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Text",
+    "control_type": "Text",
+    "name": "STEP 1",
+    "rect": [
+      242,
+      185,
+      297,
+      212
+    ]
+  },
+  {
+    "automation_id": "PART_RightHeaderGripper",
+    "class_name": "Thumb",
+    "control_type": "Thumb",
+    "name": "",
+    "rect": [
+      383,
+      460,
+      391,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "DataGridColumnHeader",
+    "control_type": "HeaderItem",
+    "name": "Duration",
+    "rect": [
+      115,
+      460,
+      205,
+      502
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "STEP 1",
+    "rect": [
+      247,
+      190,
+      292,
+      207
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "Image",
+    "control_type": "Image",
+    "name": "",
+    "rect": [
+      1803,
+      15,
+      1816,
+      16
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "|||",
+    "rect": [
+      1340,
+      471,
+      1351,
+      488
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": " Errors",
+    "rect": [
+      51,
+      762,
+      92,
+      780
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "More about OpenTAP",
+    "rect": [
+      723,
+      712,
+      856,
+      729
+    ]
+  },
+  {
+    "automation_id": "",
+    "class_name": "TextBlock",
+    "control_type": "Text",
+    "name": "FD Setup Connection",
+    "rect": [
+      844,
+      245,
+      975,
+      262
+    ]
+  }
+]

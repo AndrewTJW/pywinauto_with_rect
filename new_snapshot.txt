@@ -1,0 +1,1238 @@
+Control Identifiers:
+
+Dialog - 'Test Automation - Untitled'    (L-7, T-7, R1927, B1039)
+['Dialog', 'Test Automation - UntitledDialog', 'Test Automation - Untitled', 'Dialog0', 'Dialog1']
+child_window(title="Test Automation - Untitled", auto_id="MainWindow", control_type="Window")
+   | 
+   | Dialog - ' Settings'    (L660, T166, R1260, B866)
+   | ['Dialog2', ' Settings', ' SettingsDialog']
+   | child_window(title=" Settings", auto_id="SettingsWindow", control_type="Window")
+   |    | 
+   |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1215, T169, R1257, B199)
+   |    | ['Button', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent', 'Button0', 'Button1', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton0', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton1', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent0', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent1']
+   |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="HelpButton", control_type="Button")
+   |    |    | 
+   |    |    | Image - ''    (L1232, T177, R1239, B190)
+   |    |    | ['STEP 5Image', 'Image', 'Image0', 'Image1']
+   |    | 
+   |    | Toolbar - ''    (L665, T205, R1255, B213)
+   |    | ['STEP 3Toolbar', 'Toolbar', 'Toolbar0', 'Toolbar1']
+   |    | 
+   |    | TabControl - ''    (L665, T213, R1255, B831)
+   |    | ['STEP 3TabControl', 'TabControlOpenTap.ResultSettings', 'TabControl', 'TabControlOpenTap.EngineSettings', 'TabControlKeysight.OpenTap.Wpf.EditorSettings', 'TabControl0', 'TabControl1']
+   |    | child_window(auto_id="GlobalSettingsTabControl", control_type="Tab")
+   |    |    | 
+   |    |    | TabItem - 'Keysight.OpenTap.Plugins.AECore.CommonSetup'    (L665, T213, R901, B247)
+   |    |    | ['TabItem', 'Keysight.OpenTap.Plugins.AECore.CommonSetup', 'Keysight.OpenTap.Plugins.AECore.CommonSetupTabItem', 'TabItem0', 'TabItem1']
+   |    |    | child_window(title="Keysight.OpenTap.Plugins.AECore.CommonSetup", control_type="TabItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Automotive Channel Test Settings'    (L677, T221, R889, B238)
+   |    |    |    | ['Automotive Channel Test SettingsStatic', 'Static', 'Automotive Channel Test Settings', 'Static0', 'Static1']
+   |    |    |    | child_window(title="Automotive Channel Test Settings", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Custom - ''    (L665, T248, R1255, B831)
+   |    |    |    | ['Custom', 'Automotive Channel Test SettingsCustom', 'Custom0', 'Custom1']
+   |    |    |    |    | 
+   |    |    |    |    | ListBox - ''    (L667, T250, R1253, B826)
+   |    |    |    |    | ['ListBox', 'Automotive Channel Test SettingsListBox', 'ListBox0', 'ListBox1']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Keysight.OpenTap.Wpf.GroupUi'    (L668, T251, R1252, B282)
+   |    |    |    |    |    | ['ListItem', 'Keysight.OpenTap.Wpf.GroupUiListItem', 'Keysight.OpenTap.Wpf.GroupUi', 'ListItem0', 'ListItem1', 'Keysight.OpenTap.Wpf.GroupUiListItem0', 'Keysight.OpenTap.Wpf.GroupUiListItem1', 'Keysight.OpenTap.Wpf.GroupUi0', 'Keysight.OpenTap.Wpf.GroupUi1']
+   |    |    |    |    |    | child_window(title="Keysight.OpenTap.Wpf.GroupUi", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - 'General'    (L674, T255, R1250, B279)
+   |    |    |    |    |    |    | ['General', 'CheckBox', 'GeneralCheckBox', 'General0', 'General1', 'CheckBox0', 'CheckBox1']
+   |    |    |    |    |    |    | child_window(title="General", auto_id="groupHeader", control_type="CheckBox")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - ''    (L674, T255, R1250, B279)
+   |    |    |    |    |    |    |    | ['Button2', 'Automotive Channel Test SettingsButton']
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | Static - 'General'    (L698, T259, R742, B275)
+   |    |    |    |    |    |    |    |    | ['General2', 'Static2', 'GeneralStatic']
+   |    |    |    |    |    |    |    |    | child_window(title="General", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'User Data Directory'    (L668, T282, R1252, B310)
+   |    |    |    |    |    | ['ListItem2', 'User Data DirectoryListItem', 'User Data Directory', 'User Data Directory0', 'User Data Directory1']
+   |    |    |    |    |    | child_window(title="User Data Directory", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'User Data Directory'    (L681, T288, R793, B304)
+   |    |    |    |    |    |    | ['User Data Directory2', 'User Data DirectoryStatic', 'Static3']
+   |    |    |    |    |    |    | child_window(title="User Data Directory", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Edit - 'C:\Users\andrtan0\User Data\'    (L940, T284, R1230, B307)
+   |    |    |    |    |    |    | ['User Data DirectoryEdit', 'Edit', 'TD Setup ConnectionEdit', 'Edit0', 'Edit1']
+   |    |    |    |    |    |    | child_window(title="C:\Users\andrtan0\User Data\", control_type="Edit")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Custom - ''    (L1230, T284, R1250, B307)
+   |    |    |    |    |    |    | ['Custom2', '...Custom']
+   |    |    |    |    |    |    | child_window(auto_id="This", control_type="Custom")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - '...'    (L1230, T284, R1250, B307)
+   |    |    |    |    |    |    |    | ['Button3', '...Button', '...', '...0', '...1']
+   |    |    |    |    |    |    |    | child_window(title="...", auto_id="browseButton", control_type="Button")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | Static - '...'    (L1235, T288, R1245, B304)
+   |    |    |    |    |    |    |    |    | ['...Static', 'Static4', '...2']
+   |    |    |    |    |    |    |    |    | child_window(title="...", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Delete Old Report Files'    (L668, T310, R1252, B338)
+   |    |    |    |    |    | ['ListItem3', 'Delete Old Report Files', 'Delete Old Report FilesListItem', 'Delete Old Report Files0', 'Delete Old Report Files1']
+   |    |    |    |    |    | child_window(title="Delete Old Report Files", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Delete Old Report Files'    (L681, T316, R812, B332)
+   |    |    |    |    |    |    | ['Delete Old Report FilesStatic', 'Delete Old Report Files2', 'Static5']
+   |    |    |    |    |    |    | child_window(title="Delete Old Report Files", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T312, R966, B335)
+   |    |    |    |    |    |    | ['Delete Old Report FilesCheckBox', 'AT Setup ConnectionCheckBox', 'CheckBox2']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Number Of Report Files To Keep'    (L668, T338, R1252, B366)
+   |    |    |    |    |    | ['ListItem4', 'Number Of Report Files To KeepListItem', 'Number Of Report Files To Keep', 'Number Of Report Files To Keep0', 'Number Of Report Files To Keep1']
+   |    |    |    |    |    | child_window(title="Number Of Report Files To Keep", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Number Of Report Files To Keep'    (L681, T344, R866, B360)
+   |    |    |    |    |    |    | ['Number Of Report Files To KeepStatic', 'Static6', 'Number Of Report Files To Keep2']
+   |    |    |    |    |    |    | child_window(title="Number Of Report Files To Keep", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Edit - '200'    (L940, T340, R1250, B363)
+   |    |    |    |    |    |    | ['Edit2', 'Number Of Report Files To KeepEdit', 'AT Setup ConnectionEdit']
+   |    |    |    |    |    |    | child_window(title="200", control_type="Edit")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Test Report Content Mode'    (L668, T366, R1252, B394)
+   |    |    |    |    |    | ['ListItem5', 'Test Report Content Mode', 'Test Report Content ModeListItem', 'Test Report Content Mode0', 'Test Report Content Mode1']
+   |    |    |    |    |    | child_window(title="Test Report Content Mode", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Test Report Content Mode'    (L681, T372, R833, B388)
+   |    |    |    |    |    |    | ['Test Report Content Mode2', 'Test Report Content ModeStatic', 'Static7']
+   |    |    |    |    |    |    | child_window(title="Test Report Content Mode", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | ComboBox - ''    (L940, T368, R1250, B391)
+   |    |    |    |    |    |    | ['ComboBox', 'ComboBoxAutomotive Channel Test Settings / Test Report Content Mode / ReportContentMode: Short', 'Number Of Report Files To KeepComboBox', 'Test Report Content ModeComboBox', 'ComboBox0', 'ComboBox1']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Image Background Color'    (L668, T394, R1252, B422)
+   |    |    |    |    |    | ['ListItem6', 'Image Background ColorListItem', 'Image Background Color', 'Image Background Color0', 'Image Background Color1']
+   |    |    |    |    |    | child_window(title="Image Background Color", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Image Background Color'    (L681, T400, R824, B416)
+   |    |    |    |    |    |    | ['Image Background ColorStatic', 'Static8', 'Image Background Color2']
+   |    |    |    |    |    |    | child_window(title="Image Background Color", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | ComboBox - ''    (L940, T396, R1250, B419)
+   |    |    |    |    |    |    | ['ComboBox2', 'ComboBoxAutomotive Channel Test Settings / Image Background Color / UserDataImageBackgroundColors: Grey', 'Image Background ColorComboBox', 'ComboBoxAutomotive Channel Test Settings / Image Background Color / UserDataImageBackgroundColors: Black']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Draw Limit Line In Red'    (L668, T422, R1252, B450)
+   |    |    |    |    |    | ['ListItem7', 'Draw Limit Line In RedListItem', 'Draw Limit Line In Red', 'Draw Limit Line In Red0', 'Draw Limit Line In Red1']
+   |    |    |    |    |    | child_window(title="Draw Limit Line In Red", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Draw Limit Line In Red'    (L681, T428, R809, B444)
+   |    |    |    |    |    |    | ['Draw Limit Line In Red2', 'Draw Limit Line In RedStatic', 'Static9']
+   |    |    |    |    |    |    | child_window(title="Draw Limit Line In Red", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T424, R966, B447)
+   |    |    |    |    |    |    | ['CheckBox3', 'Draw Limit Line In RedCheckBox']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Show Skip Calibration Option For All'    (L668, T450, R1252, B478)
+   |    |    |    |    |    | ['Show Skip Calibration Option For All', 'ListItem8', 'Show Skip Calibration Option For AllListItem', 'Show Skip Calibration Option For All0', 'Show Skip Calibration Option For All1']
+   |    |    |    |    |    | child_window(title="Show Skip Calibration Option For All", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Show Skip Calibration Option For All'    (L681, T456, R888, B472)
+   |    |    |    |    |    |    | ['Show Skip Calibration Option For All2', 'Static10', 'Show Skip Calibration Option For AllStatic']
+   |    |    |    |    |    |    | child_window(title="Show Skip Calibration Option For All", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T452, R966, B475)
+   |    |    |    |    |    |    | ['Show Skip Calibration Option For AllCheckBox', 'CheckBox4']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Set Specific Cal Set On Each Test Case'    (L668, T478, R1252, B506)
+   |    |    |    |    |    | ['ListItem9', 'Set Specific Cal Set On Each Test CaseListItem', 'Set Specific Cal Set On Each Test Case', 'Set Specific Cal Set On Each Test Case0', 'Set Specific Cal Set On Each Test Case1']
+   |    |    |    |    |    | child_window(title="Set Specific Cal Set On Each Test Case", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Set Specific Cal Set On Each Test Case'    (L681, T484, R904, B500)
+   |    |    |    |    |    |    | ['Set Specific Cal Set On Each Test CaseStatic', 'Set Specific Cal Set On Each Test Case2', 'Static11']
+   |    |    |    |    |    |    | child_window(title="Set Specific Cal Set On Each Test Case", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T480, R966, B503)
+   |    |    |    |    |    |    | ['Set Specific Cal Set On Each Test CaseCheckBox', 'CheckBox5']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Keysight.OpenTap.Wpf.GroupUi'    (L668, T506, R1252, B537)
+   |    |    |    |    |    | ['ListItem10', 'Keysight.OpenTap.Wpf.GroupUiListItem2', 'Keysight.OpenTap.Wpf.GroupUi2']
+   |    |    |    |    |    | child_window(title="Keysight.OpenTap.Wpf.GroupUi", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - 'Test Execution'    (L674, T510, R1250, B534)
+   |    |    |    |    |    |    | ['Test ExecutionCheckBox', 'CheckBox6', 'Test Execution', 'Test Execution0', 'Test Execution1']
+   |    |    |    |    |    |    | child_window(title="Test Execution", auto_id="groupHeader", control_type="CheckBox")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - ''    (L674, T510, R1250, B534)
+   |    |    |    |    |    |    |    | ['Button4', 'Set Specific Cal Set On Each Test CaseButton']
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | Static - 'Test Execution'    (L698, T514, R783, B530)
+   |    |    |    |    |    |    |    |    | ['Test ExecutionStatic', 'Static12', 'Test Execution2']
+   |    |    |    |    |    |    |    |    | child_window(title="Test Execution", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Preset VNA Before Test Execution Starts'    (L668, T537, R1252, B565)
+   |    |    |    |    |    | ['ListItem11', 'Preset VNA Before Test Execution StartsListItem', 'Preset VNA Before Test Execution Starts', 'Preset VNA Before Test Execution Starts0', 'Preset VNA Before Test Execution Starts1']
+   |    |    |    |    |    | child_window(title="Preset VNA Before Test Execution Starts", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Preset VNA Before Test Execution Starts'    (L681, T543, R914, B559)
+   |    |    |    |    |    |    | ['Preset VNA Before Test Execution StartsStatic', 'Static13', 'Preset VNA Before Test Execution Starts2']
+   |    |    |    |    |    |    | child_window(title="Preset VNA Before Test Execution Starts", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T539, R966, B562)
+   |    |    |    |    |    |    | ['Preset VNA Before Test Execution StartsCheckBox', 'CheckBox7']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Minimize VNA Screen During Test Execution'    (L668, T565, R1252, B593)
+   |    |    |    |    |    | ['ListItem12', 'Minimize VNA Screen During Test ExecutionListItem', 'Minimize VNA Screen During Test Execution', 'Minimize VNA Screen During Test Execution0', 'Minimize VNA Screen During Test Execution1']
+   |    |    |    |    |    | child_window(title="Minimize VNA Screen During Test Execution", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Minimize VNA Screen During Test Execution'    (L681, T571, R935, B587)
+   |    |    |    |    |    |    | ['Static14', 'Minimize VNA Screen During Test ExecutionStatic', 'Minimize VNA Screen During Test Execution2']
+   |    |    |    |    |    |    | child_window(title="Minimize VNA Screen During Test Execution", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T567, R966, B590)
+   |    |    |    |    |    |    | ['Minimize VNA Screen During Test ExecutionCheckBox', 'CheckBox8', 'Minimize VNA Screen During Test ExecutionCheckBox0', 'Minimize VNA Screen During Test ExecutionCheckBox1']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Save Touchstone File'    (L668, T593, R1252, B621)
+   |    |    |    |    |    | ['ListItem13', 'Save Touchstone FileListItem', 'Save Touchstone File', 'Save Touchstone File0', 'Save Touchstone File1']
+   |    |    |    |    |    | child_window(title="Save Touchstone File", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Save Touchstone File'    (L681, T599, R803, B615)
+   |    |    |    |    |    |    | ['Save Touchstone FileStatic', 'Save Touchstone File2', 'Static15']
+   |    |    |    |    |    |    | child_window(title="Save Touchstone File", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T595, R966, B618)
+   |    |    |    |    |    |    | ['Minimize VNA Screen During Test ExecutionCheckBox2', 'Save Touchstone FileCheckBox', 'CheckBox9']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Save State File'    (L668, T621, R1252, B649)
+   |    |    |    |    |    | ['ListItem14', 'Save State File', 'Save State FileListItem', 'Save State File0', 'Save State File1']
+   |    |    |    |    |    | child_window(title="Save State File", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Save State File'    (L681, T627, R766, B643)
+   |    |    |    |    |    |    | ['Static16', 'Save State FileStatic', 'Save State File2']
+   |    |    |    |    |    |    | child_window(title="Save State File", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T623, R966, B646)
+   |    |    |    |    |    |    | ['Minimize VNA Screen During Test ExecutionCheckBox3', 'Save State FileCheckBox', 'CheckBox10']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Show Connection Change Reminder'    (L668, T649, R1252, B677)
+   |    |    |    |    |    | ['ListItem15', 'Show Connection Change Reminder', 'Show Connection Change ReminderListItem', 'Show Connection Change Reminder0', 'Show Connection Change Reminder1']
+   |    |    |    |    |    | child_window(title="Show Connection Change Reminder", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Show Connection Change Reminder'    (L681, T655, R888, B671)
+   |    |    |    |    |    |    | ['Show Connection Change Reminder2', 'Show Connection Change ReminderStatic', 'Static17']
+   |    |    |    |    |    |    | child_window(title="Show Connection Change Reminder", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T651, R966, B674)
+   |    |    |    |    |    |    | ['Show Connection Change ReminderCheckBox', 'CheckBox11']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Keysight.OpenTap.Wpf.GroupUi'    (L668, T677, R1252, B708)
+   |    |    |    |    |    | ['ListItem16', 'Keysight.OpenTap.Wpf.GroupUiListItem3', 'Keysight.OpenTap.Wpf.GroupUi3']
+   |    |    |    |    |    | child_window(title="Keysight.OpenTap.Wpf.GroupUi", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - 'Demo'    (L674, T681, R1250, B705)
+   |    |    |    |    |    |    | ['DemoCheckBox', 'CheckBox12', 'Demo', 'Demo0', 'Demo1']
+   |    |    |    |    |    |    | child_window(title="Demo", auto_id="groupHeader", control_type="CheckBox")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - ''    (L674, T681, R1250, B705)
+   |    |    |    |    |    |    |    | ['Button5', 'Analyze and optimize test plan timing with the Timing Analyzer.Button']
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | Static - 'Demo'    (L698, T685, R732, B701)
+   |    |    |    |    |    |    |    |    | ['Static18', 'DemoStatic', 'Demo2']
+   |    |    |    |    |    |    |    |    | child_window(title="Demo", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Keysight.OpenTap.Wpf.GroupUi'    (L668, T708, R1252, B739)
+   |    |    |    |    |    | ['ListItem17', 'Keysight.OpenTap.Wpf.GroupUiListItem4', 'Keysight.OpenTap.Wpf.GroupUi4']
+   |    |    |    |    |    | child_window(title="Keysight.OpenTap.Wpf.GroupUi", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - 'Preserve Settings'    (L674, T712, R1250, B736)
+   |    |    |    |    |    |    | ['Preserve Settings', 'Preserve SettingsCheckBox', 'CheckBox13', 'Preserve Settings0', 'Preserve Settings1']
+   |    |    |    |    |    |    | child_window(title="Preserve Settings", auto_id="groupHeader", control_type="CheckBox")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - ''    (L674, T712, R1250, B736)
+   |    |    |    |    |    |    |    | ['Button6', 'DocumentationButton']
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | Static - 'Preserve Settings'    (L698, T716, R799, B732)
+   |    |    |    |    |    |    |    |    | ['Preserve Settings2', 'Static19', 'Preserve SettingsStatic']
+   |    |    |    |    |    |    |    |    | child_window(title="Preserve Settings", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Test Setup'    (L668, T739, R1252, B767)
+   |    |    |    |    |    | ['ListItem18', 'Test Setup', 'Test SetupListItem', 'Test Setup0', 'Test Setup1']
+   |    |    |    |    |    | child_window(title="Test Setup", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Test Setup'    (L681, T745, R742, B761)
+   |    |    |    |    |    |    | ['Test Setup2', 'Test SetupStatic', 'Static20']
+   |    |    |    |    |    |    | child_window(title="Test Setup", auto_id="nameBlock", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - ''    (L943, T741, R966, B764)
+   |    |    |    |    |    |    | ['More about OpenTAPCheckBox', 'Test SetupCheckBox', 'CheckBox14']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Keysight.OpenTap.Wpf.GroupUi'    (L668, T767, R1252, B798)
+   |    |    |    |    |    | ['ListItem19', 'Keysight.OpenTap.Wpf.GroupUiListItem5', 'Keysight.OpenTap.Wpf.GroupUi5']
+   |    |    |    |    |    | child_window(title="Keysight.OpenTap.Wpf.GroupUi", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | CheckBox - 'Test Plan'    (L674, T771, R1250, B795)
+   |    |    |    |    |    |    | ['Test Plan', 'CheckBox15', 'Test PlanCheckBox', 'Test Plan0', 'Test Plan1']
+   |    |    |    |    |    |    | child_window(title="Test Plan", auto_id="groupHeader", control_type="CheckBox")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - ''    (L674, T771, R1250, B795)
+   |    |    |    |    |    |    |    | ['Button7', 'Test SetupButton']
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | Static - 'Test Plan'    (L698, T775, R752, B791)
+   |    |    |    |    |    |    |    |    | ['Test Plan2', 'Static21', 'Test PlanStatic', 'Test PlanStatic0', 'Test PlanStatic1']
+   |    |    |    |    |    |    |    |    | child_window(title="Test Plan", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | ListBox - ''    (L0, T0, R0, B0)
+   |    |    |    |    | ['ListBox2']
+   |    |    |    |    | child_window(auto_id="PART_FloatBase", control_type="List")
+   |    |    | 
+   |    |    | TabItem - 'Keysight.OpenTap.Wpf.EditorSettings'    (L901, T213, R962, B247)
+   |    |    | ['Keysight.OpenTap.Wpf.EditorSettings', 'TabItem2', 'Keysight.OpenTap.Wpf.EditorSettingsTabItem']
+   |    |    | child_window(title="Keysight.OpenTap.Wpf.EditorSettings", control_type="TabItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Editor'    (L913, T221, R950, B238)
+   |    |    |    | ['Editor', 'Static22', 'EditorStatic']
+   |    |    |    | child_window(title="Editor", control_type="Text")
+   |    |    | 
+   |    |    | TabItem - 'OpenTap.EngineSettings'    (L962, T213, R1029, B247)
+   |    |    | ['OpenTap.EngineSettings', 'TabItem3', 'OpenTap.EngineSettingsTabItem']
+   |    |    | child_window(title="OpenTap.EngineSettings", control_type="TabItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Engine'    (L974, T221, R1017, B238)
+   |    |    |    | ['EngineStatic', 'Engine', 'Static23']
+   |    |    |    | child_window(title="Engine", control_type="Text")
+   |    |    | 
+   |    |    | TabItem - 'OpenTap.ResultSettings'    (L1029, T213, R1100, B247)
+   |    |    | ['OpenTap.ResultSettingsTabItem', 'TabItem4', 'OpenTap.ResultSettings', 'OpenTap.ResultSettings0', 'OpenTap.ResultSettings1']
+   |    |    | child_window(title="OpenTap.ResultSettings", control_type="TabItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Results'    (L1041, T221, R1088, B238)
+   |    |    |    | ['Results', 'ResultsStatic', 'Static24', 'Results0', 'Results1', 'ResultsStatic0', 'ResultsStatic1']
+   |    |    |    | child_window(title="Results", control_type="Text")
+   |    | 
+   |    | Button - 'OK'    (L1118, T835, R1178, B860)
+   |    | ['Button8', 'OKButton', 'OK', 'OK0', 'OK1']
+   |    | child_window(title="OK", auto_id="OkButton", control_type="Button")
+   |    |    | 
+   |    |    | Static - 'OK'    (L1139, T839, R1157, B856)
+   |    |    | ['OK2', 'Static25', 'OKStatic']
+   |    |    | child_window(title="OK", control_type="Text")
+   |    | 
+   |    | Button - 'Cancel'    (L1185, T835, R1255, B860)
+   |    | ['Button9', 'Cancel', 'CancelButton', 'Cancel0', 'Cancel1']
+   |    | child_window(title="Cancel", auto_id="CancelButton", control_type="Button")
+   |    |    | 
+   |    |    | Static - 'Cancel'    (L1199, T839, R1242, B856)
+   |    |    | ['Cancel2', 'CancelStatic', 'Static26']
+   |    |    | child_window(title="Cancel", control_type="Text")
+   | 
+   | Image - ''    (L11, T6, R97, B26)
+   | ['Image2']
+   | child_window(auto_id="WslWindow_Application_Icon", control_type="Image")
+   | 
+   | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1789, T-1, R1831, B33)
+   | ['Button10', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton2', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent2']
+   | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="MinimizeButton", control_type="Button")
+   |    | 
+   |    | Image - ''    (L1803, T15, R1816, B16)
+   |    | ['Image3']
+   | 
+   | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1833, T-1, R1875, B33)
+   | ['Button11', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton3', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent3']
+   | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="RestoreButton", control_type="Button")
+   |    | 
+   |    | Image - ''    (L1846, T8, R1862, B24)
+   |    | ['Image4']
+   | 
+   | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1877, T-1, R1919, B33)
+   | ['Button12', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton4', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent4']
+   | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="CloseButton", control_type="Button")
+   |    | 
+   |    | Image - ''    (L1891, T9, R1904, B22)
+   |    | ['Image5']
+   | 
+   | Menu - ''    (L-1, T33, R1921, B63)
+   | ['Menu', '_FileMenu', 'Menu0', 'Menu1', '_FileMenu0', '_FileMenu1']
+   |    | 
+   |    | Menu - ''    (L-1, T33, R1866, B63)
+   |    | ['Menu2', '_FileMenu2']
+   |    | child_window(auto_id="az", control_type="Menu")
+   |    |    | 
+   |    |    | MenuItem - 'File'    (L-1, T33, R39, B63)
+   |    |    | ['MenuItem', 'FileMenuItem', 'File', 'MenuItem0', 'MenuItem1']
+   |    |    | child_window(title="File", auto_id="a0", control_type="MenuItem")
+   |    |    |    | 
+   |    |    |    | Static - '_File'    (L8, T40, R30, B57)
+   |    |    |    | ['_File', 'Static27', '_FileStatic']
+   |    |    |    | child_window(title="_File", control_type="Text")
+   |    |    | 
+   |    |    | MenuItem - 'Settings'    (L39, T33, R109, B63)
+   |    |    | ['SettingsMenuItem', 'MenuItem2', 'Settings']
+   |    |    | child_window(title="Settings", control_type="MenuItem")
+   |    |    |    | 
+   |    |    |    | Static - '_Settings'    (L48, T40, R100, B57)
+   |    |    |    | ['Static28', '_SettingsStatic', '_Settings']
+   |    |    |    | child_window(title="_Settings", control_type="Text")
+   |    |    | 
+   |    |    | MenuItem - 'Tools'    (L109, T33, R161, B63)
+   |    |    | ['MenuItem3', 'ToolsMenuItem', 'Tools']
+   |    |    | child_window(title="Tools", auto_id="a6", control_type="MenuItem")
+   |    |    |    | 
+   |    |    |    | Static - '_Tools'    (L118, T40, R152, B57)
+   |    |    |    | ['_ToolsStatic', '_Tools', 'Static29']
+   |    |    |    | child_window(title="_Tools", control_type="Text")
+   |    |    | 
+   |    |    | MenuItem - 'View'    (L161, T33, R210, B63)
+   |    |    | ['MenuItem4', 'View', 'ViewMenuItem']
+   |    |    | child_window(title="View", auto_id="a7", control_type="MenuItem")
+   |    |    |    | 
+   |    |    |    | Static - '_View'    (L170, T40, R201, B57)
+   |    |    |    | ['_ViewStatic', 'Static30', '_View']
+   |    |    |    | child_window(title="_View", control_type="Text")
+   |    |    | 
+   |    |    | MenuItem - 'Help'    (L210, T33, R257, B63)
+   |    |    | ['MenuItem5', 'Help', 'HelpMenuItem']
+   |    |    | child_window(title="Help", control_type="MenuItem")
+   |    |    |    | 
+   |    |    |    | Static - '_Help'    (L219, T40, R248, B57)
+   |    |    |    | ['Static31', '_Help', '_HelpStatic']
+   |    |    |    | child_window(title="_Help", control_type="Text")
+   |    | 
+   |    | Custom - ''    (L1866, T33, R1921, B63)
+   |    | ['Custom3', '_HelpCustom']
+   |    |    | 
+   |    |    | Edit - '9.30.0'    (L1866, T39, R1910, B56)
+   |    |    | ['Edit3']
+   |    |    | child_window(title="9.30.0", auto_id="a", control_type="Edit")
+   |    |    | 
+   |    |    | Static - ''    (L1912, T39, R1919, B56)
+   |    |    | ['Static32']
+   |    |    | child_window(auto_id="b", control_type="Text")
+   | 
+   | Custom - ''    (L-1, T63, R1921, B999)
+   | ['Custom4', '_FileCustom']
+   | child_window(auto_id="b0", control_type="Custom")
+   |    | 
+   |    | TabControl - ''    (L3, T67, R1396, B390)
+   |    | ['TabControl2', 'TabControlKeysight.Ccl.Wsl.UI.Controls.IconButtonContent', '_FileTabControl', 'TabControlKeysight.Ccl.Wsl.UI.Controls.IconButtonContent0', 'TabControlKeysight.Ccl.Wsl.UI.Controls.IconButtonContent1']
+   |    |    | 
+   |    |    | Static - 'Automotive Channel Test 2.5.0 Alpha 4'    (L5, T73, R1258, B90)
+   |    |    | ['Automotive Channel Test 2.5.0 Alpha 4Static', 'Automotive Channel Test 2.5.0 Alpha 4', 'Static33', 'Automotive Channel Test 2.5.0 Alpha 4Static0', 'Automotive Channel Test 2.5.0 Alpha 4Static1', 'Automotive Channel Test 2.5.0 Alpha 40', 'Automotive Channel Test 2.5.0 Alpha 41']
+   |    |    | child_window(title="Automotive Channel Test 2.5.0 Alpha 4", auto_id="label", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Automotive Channel Test 2.5.0 Alpha 4'    (L9, T73, R250, B90)
+   |    |    |    | ['Automotive Channel Test 2.5.0 Alpha 4Static2', 'Automotive Channel Test 2.5.0 Alpha 42', 'Static34']
+   |    |    |    | child_window(title="Automotive Channel Test 2.5.0 Alpha 4", control_type="Text")
+   |    |    | 
+   |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1258, T67, R1306, B97)
+   |    |    | ['Button13', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton5', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent5']
+   |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="PART_HelpButton", control_type="Button")
+   |    |    | 
+   |    |    | Button - ''    (L1306, T67, R1354, B97)
+   |    |    | ['Button14', 'Automotive Channel Test 2.5.0 Alpha 4Button']
+   |    |    | child_window(auto_id="MenuDropDownButton", control_type="Button")
+   |    |    | 
+   |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1354, T67, R1396, B97)
+   |    |    | ['Button15', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton6', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent6']
+   |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="PART_HidePin", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Image - ''    (L1368, T75, R1381, B88)
+   |    |    |    | ['Automotive Channel Test 2.5.0 Alpha 4Image', 'Image6']
+   |    |    | 
+   |    |    | Custom - ''    (L3, T97, R1396, B390)
+   |    |    | ['Custom5', 'Automotive Channel Test 2.5.0 Alpha 4Custom']
+   |    |    |    | 
+   |    |    |    | Pane - ''    (L3, T97, R1396, B390)
+   |    |    |    | ['Automotive Channel Test 2.5.0 Alpha 4Pane', 'Pane', 'Pane0', 'Pane1']
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'STEP 1'    (L242, T185, R297, B212)
+   |    |    |    |    | ['STEP 1', 'STEP 1Static', 'Static35', 'STEP 10', 'STEP 11', 'STEP 1Static0', 'STEP 1Static1']
+   |    |    |    |    | child_window(title="STEP 1", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'STEP 1'    (L247, T190, R292, B207)
+   |    |    |    |    |    | ['STEP 12', 'STEP 1Static2', 'Static36']
+   |    |    |    |    |    | child_window(title="STEP 1", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Instrument Setup'    (L182, T212, R357, B240)
+   |    |    |    |    | ['Button16', 'Instrument Setup', 'Instrument SetupButton', 'Instrument Setup0', 'Instrument Setup1']
+   |    |    |    |    | child_window(title="Instrument Setup", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Instrument Setup'    (L216, T218, R323, B235)
+   |    |    |    |    |    | ['Instrument Setup2', 'Static37', 'Instrument SetupStatic']
+   |    |    |    |    |    | child_window(title="Instrument Setup", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'STEP 2'    (L457, T185, R512, B212)
+   |    |    |    |    | ['Static38', 'STEP 2Static', 'STEP 2', 'STEP 2Static0', 'STEP 2Static1', 'STEP 20', 'STEP 21']
+   |    |    |    |    | child_window(title="STEP 2", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'STEP 2'    (L462, T190, R507, B207)
+   |    |    |    |    |    | ['Static39', 'STEP 2Static2', 'STEP 22']
+   |    |    |    |    |    | child_window(title="STEP 2", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Test Configuration'    (L397, T212, R572, B240)
+   |    |    |    |    | ['Button17', 'Test Configuration', 'Test ConfigurationButton', 'Test Configuration0', 'Test Configuration1']
+   |    |    |    |    | child_window(title="Test Configuration", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Test Configuration'    (L427, T218, R541, B235)
+   |    |    |    |    |    | ['Test Configuration2', 'Static40', 'Test ConfigurationStatic']
+   |    |    |    |    |    | child_window(title="Test Configuration", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'STEP 3'    (L672, T185, R727, B212)
+   |    |    |    |    | ['STEP 3', 'STEP 3Static', 'Static41', 'STEP 30', 'STEP 31', 'STEP 3Static0', 'STEP 3Static1']
+   |    |    |    |    | child_window(title="STEP 3", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'STEP 3'    (L677, T190, R722, B207)
+   |    |    |    |    |    | ['STEP 32', 'STEP 3Static2', 'Static42']
+   |    |    |    |    |    | child_window(title="STEP 3", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'System Calibration'    (L612, T212, R787, B240)
+   |    |    |    |    | ['Button18', 'System CalibrationButton', 'System Calibration', 'System Calibration0', 'System Calibration1']
+   |    |    |    |    | child_window(title="System Calibration", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'System Calibration'    (L641, T218, R758, B235)
+   |    |    |    |    |    | ['System CalibrationStatic', 'Static43', 'System Calibration2']
+   |    |    |    |    |    | child_window(title="System Calibration", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'STEP 4'    (L887, T185, R942, B212)
+   |    |    |    |    | ['STEP 4', 'STEP 4Static', 'Static44', 'STEP 40', 'STEP 41', 'STEP 4Static0', 'STEP 4Static1']
+   |    |    |    |    | child_window(title="STEP 4", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'STEP 4'    (L892, T190, R937, B207)
+   |    |    |    |    |    | ['STEP 42', 'STEP 4Static2', 'Static45']
+   |    |    |    |    |    | child_window(title="STEP 4", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Test Measurement'    (L827, T212, R1002, B240)
+   |    |    |    |    | ['Button19', 'Test MeasurementButton', 'Test Measurement', 'Test Measurement0', 'Test Measurement1']
+   |    |    |    |    | child_window(title="Test Measurement", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Test Measurement'    (L856, T218, R973, B235)
+   |    |    |    |    |    | ['Test Measurement2', 'Test MeasurementStatic', 'Static46']
+   |    |    |    |    |    | child_window(title="Test Measurement", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'STEP 5'    (L1102, T185, R1157, B212)
+   |    |    |    |    | ['STEP 5', 'STEP 5Static', 'Static47', 'STEP 50', 'STEP 51', 'STEP 5Static0', 'STEP 5Static1']
+   |    |    |    |    | child_window(title="STEP 5", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'STEP 5'    (L1107, T190, R1152, B207)
+   |    |    |    |    |    | ['STEP 52', 'STEP 5Static2', 'Static48']
+   |    |    |    |    |    | child_window(title="STEP 5", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Test Report'    (L1042, T212, R1217, B240)
+   |    |    |    |    | ['Button20', 'Test Report', 'Test ReportButton', 'Test Report0', 'Test Report1']
+   |    |    |    |    | child_window(title="Test Report", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Test Report'    (L1094, T218, R1166, B235)
+   |    |    |    |    |    | ['Test ReportStatic', 'Static49', 'Test Report2']
+   |    |    |    |    |    | child_window(title="Test Report", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Image - ''    (L370, T219, R385, B234)
+   |    |    |    |    | ['Image7', 'Instrument SetupImage']
+   |    |    |    |    | 
+   |    |    |    |    | Image - ''    (L584, T219, R599, B234)
+   |    |    |    |    | ['Test ConfigurationImage', 'Image8']
+   |    |    |    |    | 
+   |    |    |    |    | Image - ''    (L800, T219, R815, B234)
+   |    |    |    |    | ['Image9', 'System CalibrationImage']
+   |    |    |    |    | 
+   |    |    |    |    | Image - ''    (L1014, T219, R1029, B234)
+   |    |    |    |    | ['Image10', 'EngineImage']
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'System.Windows.Documents.Underline'    (L409, T240, R572, B267)
+   |    |    |    |    | ['System.Windows.Documents.UnderlineStatic', 'System.Windows.Documents.Underline', 'Static50', 'System.Windows.Documents.UnderlineStatic0', 'System.Windows.Documents.UnderlineStatic1', 'System.Windows.Documents.Underline0', 'System.Windows.Documents.Underline1']
+   |    |    |    |    | child_window(title="System.Windows.Documents.Underline", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Compatible Instrument'    (L414, T245, R557, B262)
+   |    |    |    |    |    | ['Compatible InstrumentStatic', 'Static51', 'Compatible Instrument']
+   |    |    |    |    |    | child_window(title="Compatible Instrument", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'System.Windows.Documents.Underline'    (L409, T267, R572, B294)
+   |    |    |    |    | ['System.Windows.Documents.UnderlineStatic2', 'System.Windows.Documents.Underline2', 'Static52']
+   |    |    |    |    | child_window(title="System.Windows.Documents.Underline", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Compatible ECal Module'    (L414, T272, R567, B289)
+   |    |    |    |    |    | ['Compatible ECal Module', 'Compatible ECal ModuleStatic', 'Static53']
+   |    |    |    |    |    | child_window(title="Compatible ECal Module", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'System.Windows.Documents.Underline'    (L624, T240, R787, B267)
+   |    |    |    |    | ['System.Windows.Documents.UnderlineStatic3', 'System.Windows.Documents.Underline3', 'Static54']
+   |    |    |    |    | child_window(title="System.Windows.Documents.Underline", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'ECal Setup Connection'    (L629, T245, R771, B262)
+   |    |    |    |    |    | ['ECal Setup Connection', 'ECal Setup ConnectionStatic', 'Static55']
+   |    |    |    |    |    | child_window(title="ECal Setup Connection", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'System.Windows.Documents.Underline'    (L839, T240, R1002, B267)
+   |    |    |    |    | ['System.Windows.Documents.UnderlineStatic4', 'System.Windows.Documents.Underline4', 'Static56']
+   |    |    |    |    | child_window(title="System.Windows.Documents.Underline", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'FD Setup Connection'    (L844, T245, R975, B262)
+   |    |    |    |    |    | ['FD Setup Connection', 'Static57', 'FD Setup ConnectionStatic']
+   |    |    |    |    |    | child_window(title="FD Setup Connection", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'System.Windows.Documents.Underline'    (L839, T267, R1002, B294)
+   |    |    |    |    | ['System.Windows.Documents.UnderlineStatic5', 'System.Windows.Documents.Underline5', 'Static58']
+   |    |    |    |    | child_window(title="System.Windows.Documents.Underline", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'TD Setup Connection'    (L844, T272, R975, B289)
+   |    |    |    |    |    | ['TD Setup ConnectionStatic', 'Static59', 'TD Setup Connection']
+   |    |    |    |    |    | child_window(title="TD Setup Connection", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'System.Windows.Documents.Underline'    (L839, T294, R1002, B321)
+   |    |    |    |    | ['System.Windows.Documents.UnderlineStatic6', 'System.Windows.Documents.Underline6', 'Static60']
+   |    |    |    |    | child_window(title="System.Windows.Documents.Underline", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'AT Setup Connection'    (L844, T299, R974, B316)
+   |    |    |    |    |    | ['Static61', 'AT Setup ConnectionStatic', 'AT Setup Connection']
+   |    |    |    |    |    | child_window(title="AT Setup Connection", control_type="Text")
+   |    | 
+   |    | Thumb - ''    (L3, T390, R1396, B395)
+   |    | ['AT Setup ConnectionThumb', 'Thumb', 'Automotive Channel Test 2.5.0 Alpha 4Thumb', 'Thumb0', 'Thumb1', 'Automotive Channel Test 2.5.0 Alpha 4Thumb0', 'Automotive Channel Test 2.5.0 Alpha 4Thumb1']
+   |    | 
+   |    | TabControl - ''    (L3, T395, R1396, B719)
+   |    | ["TabControlClick '+' to add a test step.", '       TabControl', 'TabControl3', 'TabControlKeysight.Ccl.Wsl.UI.Controls.IconButtonContent2']
+   |    |    | 
+   |    |    | Static - '       '    (L5, T401, R1258, B418)
+   |    |    | ['       Static', '       ', 'Static62', '       Static0', '       Static1', '       0', '       1']
+   |    |    | child_window(title="       ", auto_id="label", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '       '    (L9, T401, R129, B418)
+   |    |    |    | ['       Static2', '       2', 'Static63']
+   |    |    |    | child_window(title="       ", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Test Plan'    (L9, T401, R67, B418)
+   |    |    |    |    | ['Test Plan3', 'Static64', 'Test PlanStatic2']
+   |    |    |    |    | child_window(title="Test Plan", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Untitled'    (L74, T401, R122, B418)
+   |    |    |    |    | ['UntitledStatic', 'Untitled', 'Static65']
+   |    |    |    |    | child_window(title="Untitled", auto_id="TestPlanName", control_type="Text")
+   |    |    | 
+   |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1258, T395, R1306, B425)
+   |    |    | ['Button21', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton7', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent7']
+   |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="PART_HelpButton", control_type="Button")
+   |    |    | 
+   |    |    | Button - ''    (L1306, T395, R1354, B425)
+   |    |    | ['Button22', '       Button']
+   |    |    | child_window(auto_id="MenuDropDownButton", control_type="Button")
+   |    |    | 
+   |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1354, T395, R1396, B425)
+   |    |    | ['Button23', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton8', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent8']
+   |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="PART_HidePin", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Image - ''    (L1368, T403, R1381, B416)
+   |    |    |    | ['Image11', '       Image']
+   |    |    | 
+   |    |    | Custom - ''    (L3, T460, R1396, B719)
+   |    |    | ['Custom6', '       Custom', '       Custom0', '       Custom1']
+   |    |    | child_window(auto_id="TestPlanGrid", control_type="Custom")
+   |    |    |    | 
+   |    |    |    | ListView - ''    (L3, T460, R1396, B719)
+   |    |    |    | ['       ListView', 'ListView']
+   |    |    |    | child_window(auto_id="TestPlanList", control_type="DataGrid")
+   |    |    |    |    | 
+   |    |    |    |    | Header - ''    (L3, T460, R1396, B502)
+   |    |    |    |    | ['       Header', 'Header']
+   |    |    |    |    | child_window(auto_id="PART_ColumnHeadersPresenter", control_type="Header")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | HeaderItem - 'Duration'    (L115, T460, R205, B502)
+   |    |    |    |    |    | ['DurationHeaderItem', 'HeaderItem', 'Duration', 'Duration0', 'Duration1', 'HeaderItem0', 'HeaderItem1']
+   |    |    |    |    |    | child_window(title="Duration", control_type="HeaderItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Duration'    (L119, T472, R168, B488)
+   |    |    |    |    |    |    | ['DurationStatic', 'Duration2', 'Static66']
+   |    |    |    |    |    |    | child_window(title="Duration", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - ''    (L115, T460, R123, B502)
+   |    |    |    |    |    |    | ['VerdictThumb', 'Thumb2']
+   |    |    |    |    |    |    | child_window(auto_id="PART_LeftHeaderGripper", control_type="Thumb")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - ''    (L197, T460, R205, B502)
+   |    |    |    |    |    |    | ['DurationThumb', 'Thumb3']
+   |    |    |    |    |    |    | child_window(auto_id="PART_RightHeaderGripper", control_type="Thumb")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | HeaderItem - 'Flow'    (L205, T460, R355, B502)
+   |    |    |    |    |    | ['HeaderItem2', 'FlowHeaderItem', 'Flow', 'Flow0', 'Flow1']
+   |    |    |    |    |    | child_window(title="Flow", control_type="HeaderItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Flow'    (L209, T472, R237, B488)
+   |    |    |    |    |    |    | ['Static67', 'Flow2', 'FlowStatic']
+   |    |    |    |    |    |    | child_window(title="Flow", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - ''    (L205, T460, R213, B502)
+   |    |    |    |    |    |    | ['Thumb4', 'FlowThumb']
+   |    |    |    |    |    |    | child_window(auto_id="PART_LeftHeaderGripper", control_type="Thumb")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - ''    (L347, T460, R355, B502)
+   |    |    |    |    |    |    | ['Thumb5', 'Welcome to PathWave Test AutomationThumb']
+   |    |    |    |    |    |    | child_window(auto_id="PART_RightHeaderGripper", control_type="Thumb")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | HeaderItem - 'Verdict'    (L66, T460, R115, B502)
+   |    |    |    |    |    | ['Verdict', 'HeaderItem3', 'VerdictHeaderItem', 'Verdict0', 'Verdict1']
+   |    |    |    |    |    | child_window(title="Verdict", control_type="HeaderItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Verdict'    (L70, T472, R111, B488)
+   |    |    |    |    |    |    | ['Verdict2', 'VerdictStatic', 'Static68']
+   |    |    |    |    |    |    | child_window(title="Verdict", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - ''    (L66, T460, R74, B502)
+   |    |    |    |    |    |    | ['NameThumb', 'Thumb6', 'NameThumb0', 'NameThumb1']
+   |    |    |    |    |    |    | child_window(auto_id="PART_LeftHeaderGripper", control_type="Thumb")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - ''    (L107, T460, R115, B502)
+   |    |    |    |    |    |    | ['Test Plan:Thumb', 'Thumb7']
+   |    |    |    |    |    |    | child_window(auto_id="PART_RightHeaderGripper", control_type="Thumb")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | HeaderItem - ''    (L3, T460, R23, B502)
+   |    |    |    |    |    | ['HeaderItem4', '       HeaderItem']
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - ''    (L0, T0, R0, B0)
+   |    |    |    |    |    |    | ['Static69']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | HeaderItem - 'Name'    (L23, T460, R66, B502)
+   |    |    |    |    |    | ['NameHeaderItem', 'HeaderItem5', 'Name', 'Name0', 'Name1']
+   |    |    |    |    |    | child_window(title="Name", control_type="HeaderItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Name'    (L27, T472, R62, B488)
+   |    |    |    |    |    |    | ['NameStatic', 'Name2', 'Static70']
+   |    |    |    |    |    |    | child_window(title="Name", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - ''    (L58, T460, R66, B502)
+   |    |    |    |    |    |    | ['NameThumb2', 'Thumb8']
+   |    |    |    |    |    |    | child_window(auto_id="PART_RightHeaderGripper", control_type="Thumb")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | HeaderItem - 'Type'    (L355, T460, R391, B502)
+   |    |    |    |    |    | ['HeaderItem6', 'Type', 'TypeHeaderItem', 'Type0', 'Type1']
+   |    |    |    |    |    | child_window(title="Type", control_type="HeaderItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Type'    (L359, T472, R387, B488)
+   |    |    |    |    |    |    | ['TypeStatic', 'Type2', 'Static71']
+   |    |    |    |    |    |    | child_window(title="Type", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - ''    (L355, T460, R363, B502)
+   |    |    |    |    |    |    | ['TypeThumb', 'Thumb9', 'TypeThumb0', 'TypeThumb1']
+   |    |    |    |    |    |    | child_window(auto_id="PART_LeftHeaderGripper", control_type="Thumb")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - ''    (L383, T460, R391, B502)
+   |    |    |    |    |    |    | ['TypeThumb2', 'Thumb10']
+   |    |    |    |    |    |    | child_window(auto_id="PART_RightHeaderGripper", control_type="Thumb")
+   |    |    |    | 
+   |    |    |    | Menu - ''    (L1331, T460, R1360, B497)
+   |    |    |    | ['Menu3', '|||Menu']
+   |    |    |    |    | 
+   |    |    |    |    | MenuItem - '|||'    (L1331, T464, R1360, B494)
+   |    |    |    |    | ['MenuItem6', '|||', '|||MenuItem', '|||0', '|||1']
+   |    |    |    |    | child_window(title="|||", auto_id="ag", control_type="MenuItem")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - '|||'    (L1340, T471, R1351, B488)
+   |    |    |    |    |    | ['|||Static', 'Static72', '|||2']
+   |    |    |    |    |    | child_window(title="|||", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Button - 'Toggle Filter Mode'    (L1360, T460, R1379, B497)
+   |    |    |    | ['Button24', 'Toggle Filter Mode', 'Toggle Filter ModeButton']
+   |    |    |    | child_window(title="Toggle Filter Mode", auto_id="ah", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - ''    (L1379, T460, R1396, B497)
+   |    |    |    | ['Button25', '|||Button', '|||Button0', '|||Button1']
+   |    |    |    | child_window(auto_id="ai", control_type="Button")
+   |    |    | 
+   |    |    | Static - 'Click '+' to add a test step.'    (L5, T503, R255, B522)
+   |    |    | ["Click '+' to add a test step.", "Click '+' to add a test step.Static", 'Static73']
+   |    |    | child_window(title="Click '+' to add a test step.", auto_id="bj", control_type="Text")
+   |    |    | 
+   |    |    | Custom - ''    (L3, T460, R1396, B719)
+   |    |    | ['Custom7', '       Custom2']
+   |    |    | child_window(auto_id="bk", control_type="Custom")
+   |    |    |    | 
+   |    |    |    | Pane - ''    (L3, T460, R1396, B719)
+   |    |    |    | ['Pane2', '       Pane']
+   |    |    |    | child_window(auto_id="b", control_type="Pane")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Welcome to PathWave Test Automation'    (L341, T470, R1041, B494)
+   |    |    |    |    | ['Welcome to PathWave Test Automation', 'Welcome to PathWave Test AutomationStatic', 'Static74']
+   |    |    |    |    | child_window(title="Welcome to PathWave Test Automation", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'PathWave Test Automation empowers you to quickly and easily automate tests, view and analyze results, and optimize test performance, all built on open-source OpenTAP.'    (L341, T504, R1041, B538)
+   |    |    |    |    | ['PathWave Test Automation empowers you to quickly and easily automate tests, view and analyze results, and optimize test performance, all built on open-source OpenTAP.Static', 'PathWave Test Automation empowers you to quickly and easily automate tests, view and analyze results, and optimize test performance, all built on open-source OpenTAP.', 'Static75']
+   |    |    |    |    | child_window(title="PathWave Test Automation empowers you to quickly and easily automate tests, view and analyze results, and optimize test performance, all built on open-source OpenTAP.", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Key Features'    (L341, T558, R681, B575)
+   |    |    |    |    | ['Key Features', 'Key FeaturesStatic', 'Static76']
+   |    |    |    |    | child_window(title="Key Features", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - '• '    (L341, T580, R349, B597)
+   |    |    |    |    | ['• Static', '• ', 'Static77', '• Static0', '• Static1', '• 0', '• 1']
+   |    |    |    |    | child_window(title="• ", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Use the SDK to create custom plugins for devices under test (DUTs), instruments, and test steps'    (L349, T580, R669, B614)
+   |    |    |    |    | ['Use the SDK to create custom plugins for devices under test (DUTs), instruments, and test stepsStatic', 'Use the SDK to create custom plugins for devices under test (DUTs), instruments, and test steps', 'Static78']
+   |    |    |    |    | child_window(title="Use the SDK to create custom plugins for devices under test (DUTs), instruments, and test steps", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - '• '    (L341, T619, R349, B636)
+   |    |    |    |    | ['• Static2', '• 2', 'Static79']
+   |    |    |    |    | child_window(title="• ", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Create test plans using included, third-party, or your own custom test steps'    (L349, T619, R669, B653)
+   |    |    |    |    | ['Create test plans using included, third-party, or your own custom test steps', 'Static80', 'Create test plans using included, third-party, or your own custom test stepsStatic']
+   |    |    |    |    | child_window(title="Create test plans using included, third-party, or your own custom test steps", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - '• '    (L341, T658, R349, B675)
+   |    |    |    |    | ['• Static3', '• 3', 'Static81']
+   |    |    |    |    | child_window(title="• ", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Run test plans and view results'    (L349, T658, R669, B675)
+   |    |    |    |    | ['Run test plans and view resultsStatic', 'Run test plans and view results', 'Static82']
+   |    |    |    |    | child_window(title="Run test plans and view results", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - '• '    (L341, T680, R349, B697)
+   |    |    |    |    | ['• Static4', '• 4', 'Static83']
+   |    |    |    |    | child_window(title="• ", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Analyze and optimize test plan timing with the Timing Analyzer.'    (L349, T680, R669, B714)
+   |    |    |    |    | ['Analyze and optimize test plan timing with the Timing Analyzer.Static', 'Analyze and optimize test plan timing with the Timing Analyzer.', 'Static84']
+   |    |    |    |    | child_window(title="Analyze and optimize test plan timing with the Timing Analyzer.", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | CheckBox - 'Show welcome screen at startup. (Use Editor settings to show or hide later)'    (L341, T744, R641, B777)
+   |    |    |    |    | ['Show welcome screen at startup. (Use Editor settings to show or hide later)CheckBox', 'Show welcome screen at startup. (Use Editor settings to show or hide later)', 'CheckBox16', 'Show welcome screen at startup. (Use Editor settings to show or hide later)0', 'Show welcome screen at startup. (Use Editor settings to show or hide later)1']
+   |    |    |    |    | child_window(title="Show welcome screen at startup. (Use Editor settings to show or hide later)", auto_id="EnableWelcomeScreenAtStartupCheckbox", control_type="CheckBox")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Show welcome screen at startup. (Use Editor settings to show or hide later)'    (L362, T743, R641, B777)
+   |    |    |    |    |    | ['Show welcome screen at startup. (Use Editor settings to show or hide later)2', 'Static85', 'Show welcome screen at startup. (Use Editor settings to show or hide later)Static']
+   |    |    |    |    |    | child_window(title="Show welcome screen at startup. (Use Editor settings to show or hide later)", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Getting Started'    (L691, T558, R1031, B575)
+   |    |    |    |    | ['Static86', 'Getting StartedStatic', 'Getting Started']
+   |    |    |    |    | child_window(title="Getting Started", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Click here for a step-by-step procedure showing how to:'    (L691, T580, R1031, B614)
+   |    |    |    |    | ['Click here for a step-by-step procedure showing how to:Static', 'Click here for a step-by-step procedure showing how to:', 'Static87']
+   |    |    |    |    | child_window(title="Click here for a step-by-step procedure showing how to:", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Hyperlink - 'here'    (L725, T580, R752, B597)
+   |    |    |    |    |    | ['Hyperlink', 'here', 'hereHyperlink', 'Hyperlink0', 'Hyperlink1']
+   |    |    |    |    |    | child_window(title="here", control_type="Hyperlink")
+   |    |    |    |    | 
+   |    |    |    |    | Static - '• Create and run test plans'    (L701, T619, R1031, B636)
+   |    |    |    |    | ['• Create and run test plansStatic', 'Static88', '• Create and run test plans']
+   |    |    |    |    | child_window(title="• Create and run test plans", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - '• Save test plan results to a database'    (L701, T641, R1031, B658)
+   |    |    |    |    | ['• Save test plan results to a databaseStatic', '• Save test plan results to a database', 'Static89']
+   |    |    |    |    | child_window(title="• Save test plan results to a database", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - '• View test plan results'    (L701, T663, R1031, B680)
+   |    |    |    |    | ['• View test plan results', '• View test plan resultsStatic', 'Static90']
+   |    |    |    |    | child_window(title="• View test plan results", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Documentation'    (L691, T690, R1031, B707)
+   |    |    |    |    | ['Documentation', 'Static91', 'DocumentationStatic']
+   |    |    |    |    | child_window(title="Documentation", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Image - ''    (L701, T713, R715, B727)
+   |    |    |    |    | ['DemoImage', 'DocumentationImage', 'Image12']
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'More about OpenTAP'    (L723, T712, R856, B729)
+   |    |    |    |    | ['More about OpenTAP', 'Static92', 'More about OpenTAPStatic', 'More about OpenTAP0', 'More about OpenTAP1']
+   |    |    |    |    | child_window(title="More about OpenTAP", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Hyperlink - 'More about OpenTAP'    (L723, T712, R856, B729)
+   |    |    |    |    |    | ['Hyperlink2', 'More about OpenTAP2', 'More about OpenTAPHyperlink']
+   |    |    |    |    |    | child_window(title="More about OpenTAP", control_type="Hyperlink")
+   |    |    |    |    | 
+   |    |    |    |    | Image - ''    (L701, T733, R719, B751)
+   |    |    |    |    | ['Preserve SettingsImage', 'Image13', 'Preserve SettingsImage0', 'Preserve SettingsImage1']
+   |    |    |    |    | 
+   |    |    |    |    | Static - ' '    (L724, T734, R814, B751)
+   |    |    |    |    | [' Static', ' ', 'Static93', ' 0', ' 1', ' Static0', ' Static1']
+   |    |    |    |    | child_window(title=" ", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Hyperlink - ' '    (L724, T734, R814, B751)
+   |    |    |    |    |    | ['Hyperlink3', ' 2', ' Hyperlink', ' Hyperlink0', ' Hyperlink1']
+   |    |    |    |    |    | child_window(title=" ", auto_id="examplesLink", control_type="Hyperlink")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'SDK Examples'    (L724, T734, R814, B751)
+   |    |    |    |    |    |    | ['SDK ExamplesStatic', 'SDK Examples', 'Static94']
+   |    |    |    |    |    |    | child_window(title="SDK Examples", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Image - ''    (L701, T755, R719, B773)
+   |    |    |    |    | ['Preserve SettingsImage2', 'Image14']
+   |    |    |    |    | 
+   |    |    |    |    | Static - ' '    (L724, T756, R825, B773)
+   |    |    |    |    | [' Static2', ' 3', 'Static95']
+   |    |    |    |    | child_window(title=" ", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Hyperlink - ' '    (L724, T756, R825, B773)
+   |    |    |    |    |    | ['Hyperlink4', ' 4', ' Hyperlink2']
+   |    |    |    |    |    | child_window(title=" ", auto_id="examplesLink", control_type="Hyperlink")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Developer Guide'    (L724, T756, R825, B773)
+   |    |    |    |    |    |    | ['Developer Guide', 'Static96', 'Developer GuideStatic']
+   |    |    |    |    |    |    | child_window(title="Developer Guide", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'Open Recent Test Plan Files'    (L691, T793, R1031, B810)
+   |    |    |    |    | ['Open Recent Test Plan FilesStatic', 'Open Recent Test Plan Files', 'Static97']
+   |    |    |    |    | child_window(title="Open Recent Test Plan Files", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Static - 'New Test Plan'    (L701, T815, R1021, B832)
+   |    |    |    |    | ['New Test Plan', 'New Test PlanStatic', 'Static98', 'New Test Plan0', 'New Test Plan1']
+   |    |    |    |    | child_window(title="New Test Plan", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Hyperlink - 'New Test Plan'    (L701, T815, R790, B832)
+   |    |    |    |    |    | ['New Test Plan2', 'Hyperlink5', 'New Test PlanHyperlink']
+   |    |    |    |    |    | child_window(title="New Test Plan", control_type="Hyperlink")
+   |    |    |    |    | 
+   |    |    |    |    | ScrollBar - ''    (L1379, T460, R1396, B719)
+   |    |    |    |    | ['|||ScrollBar', 'ScrollBar', 'ScrollBar0', 'ScrollBar1']
+   |    |    |    |    | child_window(auto_id="VerticalScrollBar", control_type="ScrollBar")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Button - ''    (L1379, T460, R1396, B477)
+   |    |    |    |    |    | ['Button26', '|||Button2']
+   |    |    |    |    |    | child_window(auto_id="PART_LineUpButton", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Button - ''    (L0, T0, R0, B0)
+   |    |    |    |    |    | ['Button27']
+   |    |    |    |    |    | child_window(auto_id="PageUp", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Button - ''    (L1379, T622, R1396, B702)
+   |    |    |    |    |    | ['Button28', '|||Button3']
+   |    |    |    |    |    | child_window(auto_id="PageDown", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Thumb - ''    (L1383, T477, R1392, B622)
+   |    |    |    |    |    | ['Thumb11', '|||Thumb']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Button - ''    (L1379, T702, R1396, B719)
+   |    |    |    |    |    | ['Button29', '|||Button4']
+   |    |    |    |    |    | child_window(auto_id="PART_LineDownButton", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - ''    (L1359, T460, R1379, B478)
+   |    |    |    | ['Button30', '|||Button5']
+   |    |    |    | child_window(auto_id="WelcomeScreenCloseButton", control_type="Button")
+   |    |    | 
+   |    |    | Toolbar - ''    (L3, T425, R1396, B460)
+   |    |    | ['       Toolbar', 'ToolbarKeysight.Ccl.Wsl.UI.Controls.IconButtonContent', 'Toolbar2', 'ToolbarTest Plan:']
+   |    |    | child_window(auto_id="TestPlanToolBar", control_type="ToolBar")
+   |    |    |    | 
+   |    |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L5, T427, R47, B458)
+   |    |    |    | ['Button31', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton9', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent9']
+   |    |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="AddStepButton", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L47, T427, R89, B458)
+   |    |    |    | ['Button32', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton10', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent10']
+   |    |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="RemoveStepButton", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Static - 'Test Plan:'    (L104, T434, R165, B451)
+   |    |    |    | ['Test Plan:Static', 'Static99', 'Test Plan:']
+   |    |    |    | child_window(title="Test Plan:", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L175, T427, R221, B458)
+   |    |    |    | ['Button33', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton11', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent11']
+   |    |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="InitTestPlanButton", control_type="Button")
+   |    |    |    |    | 
+   |    |    |    |    | Pane - ''    (L184, T436, R198, B447)
+   |    |    |    |    | ['Test Plan:Pane', 'Pane3']
+   |    |    |    | 
+   |    |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L221, T427, R263, B458)
+   |    |    |    | ['Button34', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton12', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent12']
+   |    |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="RunTestPlanButton", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L263, T427, R305, B458)
+   |    |    |    | ['Button35', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton13', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent13']
+   |    |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="Single Step", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L305, T427, R347, B458)
+   |    |    |    | ['Button36', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton14', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent14']
+   |    |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="StopTestPlanButton", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - ''    (L347, T427, R402, B458)
+   |    |    |    | ['Button37', 'Test Plan:Button', 'Test Plan:Button0', 'Test Plan:Button1']
+   |    |    |    | child_window(auto_id="DropDownButton2", control_type="Button")
+   |    |    |    |    | 
+   |    |    |    |    | Button - ''    (L351, T427, R386, B461)
+   |    |    |    |    | ['Button38', 'Test Plan:Button2']
+   |    |    |    |    | child_window(auto_id="RepeatTestPlanToggle", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L406, T427, R448, B458)
+   |    |    |    | ['Button39', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton15', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent15']
+   |    |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="btn", control_type="Button")
+   |    | 
+   |    | Thumb - ''    (L1396, T67, R1401, B719)
+   |    | ['Thumb12', 'Automotive Channel Test 2.5.0 Alpha 4Thumb2']
+   |    | 
+   |    | TabControl - ''    (L1401, T67, R1917, B719)
+   |    | ['TabControl4', 'TabControlKeysight.Ccl.Wsl.UI.Controls.IconButtonContent3', 'Test Step SettingsTabControl']
+   |    |    | 
+   |    |    | Static - 'Test Step Settings'    (L1403, T73, R1779, B90)
+   |    |    | ['Test Step Settings', 'Test Step SettingsStatic', 'Static100', 'Test Step Settings0', 'Test Step Settings1', 'Test Step SettingsStatic0', 'Test Step SettingsStatic1']
+   |    |    | child_window(title="Test Step Settings", auto_id="label", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Test Step Settings'    (L1407, T73, R1520, B90)
+   |    |    |    | ['Test Step Settings2', 'Test Step SettingsStatic2', 'Static101']
+   |    |    |    | child_window(title="Test Step Settings", control_type="Text")
+   |    |    | 
+   |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1779, T67, R1827, B97)
+   |    |    | ['Button40', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton16', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent16']
+   |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="PART_HelpButton", control_type="Button")
+   |    |    | 
+   |    |    | Button - ''    (L1827, T67, R1875, B97)
+   |    |    | ['Button41', 'Test Step SettingsButton']
+   |    |    | child_window(auto_id="MenuDropDownButton", control_type="Button")
+   |    |    | 
+   |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1875, T67, R1917, B97)
+   |    |    | ['Button42', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton17', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent17']
+   |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="PART_HidePin", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Image - ''    (L1889, T75, R1902, B88)
+   |    |    |    | ['Test Step SettingsImage', 'Image15']
+   |    |    | 
+   |    |    | ListBox - ''    (L1401, T97, R1917, B716)
+   |    |    | ['ListBox3', 'Test Step SettingsListBox', 'Test Step SettingsListBox0', 'Test Step SettingsListBox1']
+   |    |    | 
+   |    |    | ListBox - ''    (L0, T0, R0, B0)
+   |    |    | ['ListBox4']
+   |    |    | child_window(auto_id="PART_FloatBase", control_type="List")
+   |    | 
+   |    | Thumb - ''    (L3, T719, R1917, B724)
+   |    | ["Click '+' to add a test step.Thumb", 'Thumb13']
+   |    | 
+   |    | TabControl - ''    (L3, T724, R1917, B995)
+   |    | ['LogTabControl', 'TabControl5', 'TabControlKeysight.Ccl.Wsl.UI.Controls.IconButtonContent4']
+   |    |    | 
+   |    |    | Static - 'Log'    (L5, T730, R1779, B747)
+   |    |    | ['LogStatic', 'Static102', 'Log', 'LogStatic0', 'LogStatic1', 'Log0', 'Log1']
+   |    |    | child_window(title="Log", auto_id="label", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Log'    (L9, T730, R32, B747)
+   |    |    |    | ['LogStatic2', 'Static103', 'Log2']
+   |    |    |    | child_window(title="Log", control_type="Text")
+   |    |    | 
+   |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1779, T724, R1827, B754)
+   |    |    | ['Button43', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton18', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent18']
+   |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="PART_HelpButton", control_type="Button")
+   |    |    | 
+   |    |    | Button - ''    (L1827, T724, R1875, B754)
+   |    |    | ['Button44', 'LogButton', 'LogButton0', 'LogButton1']
+   |    |    | child_window(auto_id="MenuDropDownButton", control_type="Button")
+   |    |    | 
+   |    |    | Button - 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent'    (L1875, T724, R1917, B754)
+   |    |    | ['Button45', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContentButton19', 'Keysight.Ccl.Wsl.UI.Controls.IconButtonContent19']
+   |    |    | child_window(title="Keysight.Ccl.Wsl.UI.Controls.IconButtonContent", auto_id="PART_HidePin", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Image - ''    (L1889, T732, R1902, B745)
+   |    |    |    | ['Image16', 'LogImage']
+   |    |    | 
+   |    |    | Custom - ''    (L3, T754, R1917, B995)
+   |    |    | ['Custom8', 'LogCustom', 'LogCustom0', 'LogCustom1']
+   |    |    | child_window(auto_id="LogPanel", control_type="Custom")
+   |    |    |    | 
+   |    |    |    | Toolbar - ''    (L3, T754, R1917, B789)
+   |    |    |    | ['LogToolbar', 'Toolbar3']
+   |    |    |    | child_window(auto_id="LogPanelToolBar", control_type="ToolBar")
+   |    |    |    |    | 
+   |    |    |    |    | CheckBox - ''    (L17, T762, R121, B780)
+   |    |    |    |    | ['LogCheckBox', 'CheckBox17']
+   |    |    |    |    | child_window(auto_id="LogPanelErrorsButton", control_type="CheckBox")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - ' Errors'    (L51, T762, R92, B780)
+   |    |    |    |    |    | [' Errors', ' ErrorsStatic', 'Static104']
+   |    |    |    |    |    | child_window(title=" Errors", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - '0'    (L96, T762, R121, B780)
+   |    |    |    |    |    | ['0Static', 'Static105', '0']
+   |    |    |    |    |    | child_window(title="0", auto_id="ErrorCount", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | CheckBox - ''    (L137, T762, R262, B780)
+   |    |    |    |    | ['0CheckBox', 'CheckBox18']
+   |    |    |    |    | child_window(auto_id="LogPanelWarningsButton", control_type="CheckBox")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - ' Warnings'    (L171, T762, R233, B780)
+   |    |    |    |    |    | ['Static106', ' WarningsStatic', ' Warnings']
+   |    |    |    |    |    | child_window(title=" Warnings", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - '1'    (L237, T762, R262, B780)
+   |    |    |    |    |    | ['1', '1Static', 'Static107']
+   |    |    |    |    |    | child_window(title="1", auto_id="WarningCount", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | CheckBox - ''    (L278, T762, R417, B780)
+   |    |    |    |    | ['CheckBox19', '1CheckBox']
+   |    |    |    |    | child_window(auto_id="LogPanelMessagesButton", control_type="CheckBox")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - ' Information'    (L312, T762, R388, B780)
+   |    |    |    |    |    | [' Information', ' InformationStatic', 'Static108']
+   |    |    |    |    |    | child_window(title=" Information", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - '12'    (L392, T762, R417, B780)
+   |    |    |    |    |    | ['12', 'Static109', '12Static']
+   |    |    |    |    |    | child_window(title="12", auto_id="MessageCount", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | CheckBox - ''    (L433, T762, R537, B780)
+   |    |    |    |    | ['CheckBox20', '12CheckBox']
+   |    |    |    |    | child_window(auto_id="LogPanelDebugButton", control_type="CheckBox")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - ' Debug'    (L465, T762, R508, B780)
+   |    |    |    |    |    | [' DebugStatic', ' Debug', 'Static110']
+   |    |    |    |    |    | child_window(title=" Debug", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - '153'    (L512, T762, R537, B780)
+   |    |    |    |    |    | ['153', 'Static111', '153Static']
+   |    |    |    |    |    | child_window(title="153", auto_id="DebugCount", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Toolbar - ''    (L1584, T754, R1917, B789)
+   |    |    |    | ['ToolbarAuto Scroll', 'Toolbar4', 'SourcesToolbar', '153Toolbar']
+   |    |    |    |    | 
+   |    |    |    |    | Button - ''    (L1592, T756, R1663, B787)
+   |    |    |    |    | ['Button46', 'SourcesButton', 'SourcesButton0', 'SourcesButton1']
+   |    |    |    |    | child_window(auto_id="DropDownButton2", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Sources'    (L1596, T763, R1647, B780)
+   |    |    |    |    |    | ['Static112', 'Sources', 'SourcesStatic']
+   |    |    |    |    |    | child_window(title="Sources", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - ''    (L1667, T756, R1730, B787)
+   |    |    |    |    | ['Button47', 'SourcesButton2']
+   |    |    |    |    | child_window(auto_id="DropDownButton2", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Search'    (L1671, T763, R1714, B780)
+   |    |    |    |    |    | ['SearchStatic', 'Static113', 'Search']
+   |    |    |    |    |    | child_window(title="Search", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - ''    (L1733, T756, R1813, B787)
+   |    |    |    |    | ['Button48', 'SearchButton']
+   |    |    |    |    | child_window(auto_id="DropDownButton2", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Button - 'Filter'    (L1737, T759, R1797, B784)
+   |    |    |    |    |    | ['Button49', 'FilterButton', 'Filter', 'Filter0', 'Filter1']
+   |    |    |    |    |    | child_window(title="Filter", auto_id="FilterToggleButton", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Filter'    (L1758, T763, R1789, B780)
+   |    |    |    |    |    |    | ['Filter2', 'FilterStatic', 'Static114']
+   |    |    |    |    |    |    | child_window(title="Filter", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Auto Scroll'    (L1814, T759, R1911, B784)
+   |    |    |    |    | ['Button50', 'Auto Scroll', 'Auto ScrollButton', 'Auto Scroll0', 'Auto Scroll1', 'Auto ScrollButton0', 'Auto ScrollButton1']
+   |    |    |    |    | child_window(title="Auto Scroll", auto_id="LogPanelAutoScrollButton", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Auto Scroll'    (L1835, T763, R1903, B780)
+   |    |    |    |    |    | ['Auto Scroll2', 'Static115', 'Auto ScrollStatic']
+   |    |    |    |    |    | child_window(title="Auto Scroll", control_type="Text")
+   |    |    |    | 
+   |    |    |    | ScrollBar - ''    (L3, T978, R1900, B995)
+   |    |    |    | ['Auto ScrollScrollBar', 'LogScrollBar', 'ScrollBar2', 'Auto ScrollScrollBar0', 'Auto ScrollScrollBar1']
+   |    |    |    | child_window(auto_id="horzbar", control_type="ScrollBar")
+   |    |    |    |    | 
+   |    |    |    |    | Button - ''    (L3, T978, R20, B995)
+   |    |    |    |    | ['Button51', 'LogButton2']
+   |    |    |    |    | child_window(auto_id="PART_LineLeftButton", control_type="Button")
+   |    |    |    |    | 
+   |    |    |    |    | Button - ''    (L1883, T978, R1900, B995)
+   |    |    |    |    | ['Button52', 'Auto ScrollButton2']
+   |    |    |    |    | child_window(auto_id="PART_LineRightButton", control_type="Button")
+   |    |    |    | 
+   |    |    |    | ScrollBar - ''    (L1900, T789, R1917, B978)
+   |    |    |    | ['Auto ScrollScrollBar2', 'ScrollBar3']
+   |    |    |    | child_window(auto_id="vertbar", control_type="ScrollBar")
+   |    |    |    |    | 
+   |    |    |    |    | Button - ''    (L1900, T789, R1917, B806)
+   |    |    |    |    | ['Button53', 'Auto ScrollButton3']
+   |    |    |    |    | child_window(auto_id="PART_LineUpButton", control_type="Button")
+   |    |    |    |    | 
+   |    |    |    |    | Button - ''    (L1900, T961, R1917, B978)
+   |    |    |    |    | ['Button54', 'Auto ScrollButton4']
+   |    |    |    |    | child_window(auto_id="PART_LineDownButton", control_type="Button")
+   |    |    | 
+   |    |    | Custom - ''    (L3, T754, R1917, B995)
+   |    |    | ['Custom9', 'LogCustom2']
+   |    |    | child_window(auto_id="bz", control_type="Custom")
+   |    |    |    | 
+   |    |    |    | Static - ''    (L0, T0, R0, B0)
+   |    |    |    | ['Static116']
+   |    |    |    | child_window(auto_id="RunCompletedOverlayTextBlock", control_type="Text")
+   |    | 
+   |    | ListBox - ''    (L1917, T67, R1921, B995)
+   |    | ['ListBox5', 'Test Step SettingsListBox2']
+   |    | 
+   |    | ListBox - ''    (L-1, T67, R3, B995)
+   |    | ['ListBox6']
+   |    | 
+   |    | ListBox - ''    (L3, T63, R1917, B67)
+   |    | ['ListBox7', '_FileListBox']
+   |    | 
+   |    | ListBox - ''    (L3, T995, R1917, B999)
+   |    | ['ListBox8', 'LogListBox']
+   |    | 
+   |    | Pane - ''    (L0, T0, R0, B0)
+   |    | ['Pane4']
+   | 
+   | Custom - ''    (L-1, T999, R1921, B1033)
+   | ['Custom10', 'DUTsCustom']
+   | child_window(auto_id="b1", control_type="Custom")
+   |    | 
+   |    | Pane - ''    (L-1, T999, R1921, B1033)
+   |    | ['Pane5', 'DUTsPane']
+   |    |    | 
+   |    |    | ListBox - ''    (L4, T999, R1916, B1033)
+   |    |    | ['ListBox9', 'DUTsListBox']
+   |    |    |    | 
+   |    |    |    | DataItem - 'OpenTap.DutSettings'    (L4, T999, R132, B1033)
+   |    |    |    | ['OpenTap.DutSettings', 'OpenTap.DutSettingsDataItem', 'DataItem', 'DataItem0', 'DataItem1']
+   |    |    |    | child_window(title="OpenTap.DutSettings", control_type="DataItem")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'DUTs'    (L4, T999, R54, B1033)
+   |    |    |    |    | ['Button55', 'DUTs', 'DUTsButton', 'DUTs0', 'DUTs1']
+   |    |    |    |    | child_window(title="DUTs", auto_id="ResourceSettingsOpenButton", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'DUTs'    (L12, T1007, R46, B1024)
+   |    |    |    |    |    | ['DUTsStatic', 'DUTs2', 'Static117']
+   |    |    |    |    |    | child_window(title="DUTs", auto_id="ResourceSettingsName", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Add New'    (L54, T999, R120, B1033)
+   |    |    |    |    | ['Button56', 'Add New', 'Add NewButton', 'Add New0', 'Add New1', 'Add NewButton0', 'Add NewButton1']
+   |    |    |    |    | child_window(title="Add New", auto_id="addbtn", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Add New'    (L59, T1007, R115, B1024)
+   |    |    |    |    |    | ['Add New2', 'Add NewStatic', 'Static118', 'Add NewStatic0', 'Add NewStatic1']
+   |    |    |    |    |    | child_window(title="Add New", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | ListBox - ''    (L0, T0, R0, B0)
+   |    |    |    |    | ['ListBox10']
+   |    |    |    | 
+   |    |    |    | DataItem - 'OpenTap.InstrumentSettings'    (L132, T999, R304, B1033)
+   |    |    |    | ['DataItem2', 'OpenTap.InstrumentSettings', 'OpenTap.InstrumentSettingsDataItem']
+   |    |    |    | child_window(title="OpenTap.InstrumentSettings", control_type="DataItem")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Instruments'    (L132, T999, R226, B1033)
+   |    |    |    |    | ['Button57', 'Instruments', 'InstrumentsButton', 'Instruments0', 'Instruments1']
+   |    |    |    |    | child_window(title="Instruments", auto_id="ResourceSettingsOpenButton", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Instruments'    (L140, T1007, R218, B1024)
+   |    |    |    |    |    | ['InstrumentsStatic', 'Instruments2', 'Static119']
+   |    |    |    |    |    | child_window(title="Instruments", auto_id="ResourceSettingsName", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Add New'    (L226, T999, R292, B1033)
+   |    |    |    |    | ['Button58', 'Add New3', 'Add NewButton2']
+   |    |    |    |    | child_window(title="Add New", auto_id="addbtn", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Add New'    (L231, T1007, R287, B1024)
+   |    |    |    |    |    | ['Add New4', 'Add NewStatic2', 'Static120']
+   |    |    |    |    |    | child_window(title="Add New", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | ListBox - ''    (L0, T0, R0, B0)
+   |    |    |    |    | ['ListBox11']
+   |    |    |    | 
+   |    |    |    | DataItem - 'OpenTap.ResultSettings'    (L304, T999, R446, B1033)
+   |    |    |    | ['OpenTap.ResultSettingsDataItem', 'DataItem3', 'OpenTap.ResultSettings2']
+   |    |    |    | child_window(title="OpenTap.ResultSettings", control_type="DataItem")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Results'    (L304, T999, R368, B1033)
+   |    |    |    |    | ['Button59', 'Results2', 'ResultsButton']
+   |    |    |    |    | child_window(title="Results", auto_id="ResourceSettingsOpenButton", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Results'    (L312, T1007, R360, B1024)
+   |    |    |    |    |    | ['Results3', 'ResultsStatic2', 'Static121']
+   |    |    |    |    |    | child_window(title="Results", auto_id="ResourceSettingsName", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Add New'    (L368, T999, R434, B1033)
+   |    |    |    |    | ['Button60', 'Add New5', 'Add NewButton3']
+   |    |    |    |    | child_window(title="Add New", auto_id="addbtn", control_type="Button")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Static - 'Add New'    (L373, T1007, R429, B1024)
+   |    |    |    |    |    | ['Add New6', 'Add NewStatic3', 'Static122']
+   |    |    |    |    |    | child_window(title="Add New", control_type="Text")
+   |    |    |    |    | 
+   |    |    |    |    | ListBox - ''    (L0, T0, R0, B0)
+   |    |    |    |    | ['ListBox12']
